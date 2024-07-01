@@ -1,6 +1,6 @@
 @extends('layouts.web')
-@section('title', ' Noteworthy Online Academic Writing Services Across Ireland')
-@section('description', ' Take a much-needed break from all kinds of academic work with the best academic writing services all over Ireland. Get your tasks done by our proficient writers.')
+@section('title', ' Buy Assignment Help Services in Ireland by Proficient Writers')
+@section('description', ' Buy assignment help services from Assignments Help Ireland and increase the level of your exam grades. Get the most affordable online assignment help.')
 @section('canonical', config('app.url') . Request::path())
 @section('content')
 <section class="home-banner text-center text-lg-start">
@@ -8,9 +8,9 @@
     <div class="row align-items-center">
       <div class="col-lg-4">
         <h1 style="font-size: 1.6rem; font-weight: bold;"
-         class="text-uppercase font-weight-bold text-light mb-2">Distinctive 
-         -<span style="color: #192D48;">Academic Writing Services in Ireland Providing Best Academic Solutions</span></h1>
-        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Do your daily academic tasks add to your stress and keep you from peace of mind? Say no to your stress this time because we have a solution for you. Our affordable academic writing services will give you the break you have been craving for a long time. For over 10 years, we have helped more than 48,000 students with their academic work and earned their appreciation. </p>
+         class="text-uppercase font-weight-bold text-light mb-2">Buy Assignment Help Online In Ireland
+         -<span style="color: #192D48;"> - The Most Leading Platform for Assignment Writing</span></h1>
+        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Assignments Help Ireland is the leading platform that offers thousands of different services to students and helps them complete their assignments on time. We are the top-rated assignment help agency with an overall rating of 4.9/5 and serve around 48K students across Ireland. We have the best team of writers who help students craft compelling assignments. We encourage you to buy assignment help online from Ireland writers and enhance your grades. </p>
         <div class="banner-features d-none d-md-block" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
             <div class="col-md-6 p-1" bis_skin_checked="1">
@@ -112,7 +112,7 @@
               <div class="text-center m-t-10"><span class="c-text">The price is &nbsp;<span class="number">€
                     <span>10</span>&nbsp;<sub><del>€ <span>20</span></del></sub></span></span></div>
               <div class="text-sm-start"><button style="background-color: #0b2051; color: white;"
-                  class="btn btn-md d-block btn-dual-shade w-100">  Write my academic assignment</button>
+                  class="btn btn-md d-block btn-dual-shade w-100">Buy Assignment Help Services Now!</button>
               </div>
             </form>
           </div>
@@ -236,11 +236,10 @@
 <section>
   <div style="background: #DBECFE;" class="container-fluid py-5 px-5">
     <div class="content-wrapper text-center">
-      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Make All the Academic Goals Achievable Through Our Academic Paper Writing Help</h2>
-      <p style="color: #182E47;" class="mb-4 font-weight-bold">Dreaming about achieving academic goals is what all students do, but turning that dream into reality is not always in their hands. We understand that not every student has the capacity to achieve academic success, so we offer our phenomenal academic services to give them a helping hand.</p>
-      <p style="color: #182E47;" class="mb-4">Our mission is not just to complete your academic work, but we also strive to capture excellent scores through it. Our assistance also lets students have some break from their consecutive assignments and tasks, in which they can meet their commitments. It means you can score better without even struggling with your academic work. That’s why we always pay attention to your “Do My Assignment” call.</p>
+      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Phenomenal Writing Services for Irish Students to Buy Assignment Help Online</h2>
+      <p style="color: #182E47;" class="mb-4">We are proud to provide exceptional writing services to students in Ireland. Ireland’s professional assignment writers are highly experienced and educated. They are keen to give you the best assignment help possible, so you must buy assignment help from our agency. Assignments Help Ireland is the most reliable platform that guarantees the provision of top-quality content at the lowest prices. </p>
 
-      <p style="color: #182E47;">Our writers also specialize in researching, proofreading, formatting, and editing. Assignments Help Ireland has provided services to thousands of students and helped them achieve their desired grades. Therefore, once you order our services, we guarantee the best results with outstanding grades.</p>
+      <p style="color: #182E47;">Moreover, our online Assignments Help Ireland is available to provide students with the necessary guidance related to their assignments. We assist with research, formatting papers, proofreading, and editing. We encourage you to get our services at an affordable price, so buy assignments online in Ireland. .</p>
     </div><!--.content-wrapper-->
   </div>
 </section>
@@ -255,22 +254,22 @@
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="box bg-white border shadow">
           <li class="icon"> <i aria-hidden="true" class="fa fa-file-text-o"></i></li>
-          <h3 class="works-title text-green">Order Submission</h3>
-          <p class="works-content">To submit your order, fill out our order form with your complete assignment details. After reviewing your assignment, we will offer you a custom price quote. </p>
+          <h3 class="works-title text-green">Submit Your Order</h3>
+          <p class="works-content">Submit your assignment details by filling out our form. We will then review your assignment and send you the custom price quote. </p>
         </div>
       </div>
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="box middle box bg-white border shadow ">
           <li class="icon"> <i class="fa fa-credit-card" aria-hidden="true"></i></li>
-          <h3 class="works-title text-green">Payment Method</h3>
-          <p class="works-content">We offer payment methods via Visa and debit card before assigning the best subject professional for your project. They will start writing your assignment and deliver it to you before the deadline. </p>
+          <h3 class="works-title text-green">Make Payment</h3>
+          <p class="works-content">You can buy assignment help online in Ireland by making payment services via credit or debit card, and then we will assign the best niche for your projects to our writer. He will start writing the assignment and deliver it on time.  </p>
         </div>
       </div>
       <div class="col-md-4 ">
         <div class="box box bg-white border shadow">
           <li class="icon"> <i aria-hidden="true" class="fa fa-envelope-o"></i></li>
-          <h3 class="works-title text-green">Assignment Delivery</h3>
-          <p class="works-content">We will email you a complete assignment using your email ID. If you think there’s still something to be changed or edited, we can do it freely since we offer unlimited revisions. </p>
+          <h3 class="works-title text-green">Receive Your Paper</h3>
+          <p class="works-content">We will deliver you the completed assignment via email. If you require any further changes we ask for unlimited revisions. </p>
         </div>
       </div>
     </div>
@@ -286,21 +285,21 @@
     <div class="row mb-5 align-items-center">
       <div class="col-lg-6 p-4">
         <h2 class="text-2xl mb-6 font-medium">
-        Join Hands with the Prominent Academic Assignment Writing Website to Get Help Countrywide
+          Our Top-Class Collaboration with Leading Online Assignment Helpers to Complete Your Tasks 
         </h2>
         <p>
-        Struggling with academics is no less than a nightmare for students. But students deal with it for the sake of good grades. Therefore, we have the most convenient way out of that. Assignments Help Ireland is the most reliable service to help you with all your academic tasks in a way that will benefit you with your grades.
+          Suppose you are looking for professional assignment writing services to complete your assignments perfectly. In that case, you should buy assignment help services from us since we have collaborated with leading assignment writers to provide you with the best assignment help . Our expert writing team is always available and will help you with various assignment tasks, including essays, research papers, and a thesis. 
         </p>
         <br>
         <p>
-        Our academic writing center is not far from you in any way because we deliver our help to every corner of every street in Ireland. Thanks to our online platform, you can avail of our help in Dublin, Galway, Limerick, Waterford, Cork, Kilkenny, and all the other areas. You can leave your tasks to us with just a few clicks on our website and receive the complete version from us without any hassle. 
+          Each professional writer on our team is highly expert and experienced in writing quality content. Their content is 100% original and unique, and they ensure that it meets all the assignment requirements. Moreover, our certified assignment writers have served thousands of students in Ireland from various cities, contributing to their experience and making them professional writers. 
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Do my academic papers
+              Get Online Assignment Help
             </button>
           </a>
         </div>
@@ -315,21 +314,21 @@
       </div>
       <div class="col-lg-6 p-4 order-1 order-md-2">
         <h2 class="text-2xl mt-4 my-4 font-medium">
-        Trust Our Incredible Irish Academic Writing Expert Organisation for Instant Academic Assistance
+          Get Our Wide Range of Assignment Writing Services in Ireland And Buy Cheap Assignment Help
         </h2>
         <p>
-        Submission of academic work on time is a real struggle because every student fears losing scores. Our services welcome you if you are ready to partner with a professional organization for your assignment help. We promise to take care of your academic work and complete it on time so you don’t miss your deadline.
+          Assignments Help Ireland offers a wide range of Ireland assignment writing services. Our services are always open to those who are looking for reliable and timely assignment assistance. Our assignment services also provide students with great assistance on various tasks, including case studies, thesis, reports, essays, research papers, etc. 
         </p>
         <br>
         <p>
-        Moreover, if your deadline is just around the corner and you haven’t started the assignment yet, we provide a solution for that as well. We have an urgent academic writing offer since our team has over 5000 qualified academic helpers who work on different shifts. We’ll ensure that your work is completed on time and save you from losing even a single score due to late submission.
+          Our writers are highly educated and know the rules and requirements of every university in Ireland. So you can buy assignment help online in all cities of Ireland. We have hundreds of professional experts serving thousands of students across Ireland on various tasks assigned to them and helping them achieve outstanding grades. All satisfied students have also rejoined us several times, availing of our services and improving their grades. We urge you to buy assignments online from Ireland and improve your results.
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Write my academic paper in Ireland
+              Hire Qualified Assignment Writer
             </button>
           </a>
         </div>
@@ -345,10 +344,10 @@
     <div class="row">
       <div class="col-md-12">
         <h3 class="text-center">
-        What Makes Assignments Help Ireland Worthwhile to Your Attention?
+          Why Choose Assignments Help Ireland?
         </h3>
         <p class="text-center">
-        Get a package full of perks with our academic writing services for an astounding experience with us.
+          We always ensure that we provide quality work on time. Buy assignment help services from us since we offer a wide range of benefits. 
       </div>
     </div>
     <div class="row">
@@ -361,9 +360,9 @@
                   <img src="images/__Low price.png" alt="Quality img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Affordable Assignment Help Services</h4>
+                  <h4 class="qualtiy-box-title">Cheap Assignment Help</h4>
                   <p class="wrapper-text">
-                  We assure you that our services are highly affordable for students with various financial standards. Our services are cheap yet professional for everyone. 
+                    We completely make sure that we provide assignment help that is affordable for every student regardless of their financial status. We do our best to provide the services as cheap as possible. 
 
 
                   </p>
@@ -376,9 +375,9 @@
                   <img src="images/__Experienced Writers.png" alt="writer img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Professional Assignment Writers Help</h4>
+                  <h4 class="qualtiy-box-title">Timely Delivery </h4>
                   <p class="wrapper-text">
-                  We have a team of writers with professional experience to ensure you will receive quality work without exception. So, you don’t need to worry about your tasks since our writers are here for you.
+                    We respect the importance of deadlines and do our best to deliver the complete work to the students before the deadline. 
 
 
                   </p>
@@ -392,9 +391,9 @@
                   <img src="images/__Timely Delivery.png" alt="deadline img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Fast Delivery</h4>
+                  <h4 class="qualtiy-box-title">24-hour Dedicated Support </h4>
                   <p class="wrapper-text">
-                  We believe that time is important for everyone. Since we offer fast delivery, we will always provide you with your completed task before the deadline with quality. 
+                    Assignments Help Ireland provides 24-hour support to all students. So, you need not worry about our availability since our team can help you anytime. 
                   </p>
                 </div>
 
@@ -406,9 +405,9 @@
                   <img src="images/100-Plag free.png" alt="source img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">100% Plagiarism-Free Content</h4>
+                  <h4 class="qualtiy-box-title">Help from Our Experienced Writers</h4>
                   <p class="wrapper-text">
-                  Our team of writers always provides original, 100% plagiarism-free content without copyright issues. We also assure you of the best work. 
+                    We have highly experienced writers who possess extraordinary writing skills to help students across Ireland by offering professional writing services that will satisfy their needs.
 
                   </p>
                 </div>
@@ -421,9 +420,9 @@
                   <img src="images/__24-7 customer support.png" alt="support img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">24-hour Customer Support </h4>
+                  <h4 class="qualtiy-box-title">100% Original Assignment </h4>
                   <p class="wrapper-text">
-                  We provide our clients with 24-hour support, so you can freely contact us at any time with any queries or doubts. 
+                    Our expert writing team ensures that they provide 100% original assignment content that is free from plagiarism. Our writers also check it through Turnitin to ensure its uniqueness. 
                   </p>
                 </div>
 
@@ -437,7 +436,9 @@
                 <div class="wrapper-box-content">
                   <h4 class="qualtiy-box-title">Free Work Examples</h4>
                   <p class="wrapper-text">
-                  We also offer our free work examples to clients to give them an idea of our quality work, and they will deliver it to them. <a href="#"></a></p>
+                    Assignments Help Ireland provides its clients with free work samples to help them get an idea of its work before they choose our services. 
+
+                  </p>
                 </div>
 
               </div>
@@ -843,30 +844,26 @@
     <div style="padding-left: 1rem;" class="row">
       <div class="row m-t-20">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Escalate Towards the Achievements with the Support of Our Professional Academic Paper Writers</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="py-3" >Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything.</p>
-          <p style="color: black;" class="py-3" >For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates.</p>
+          <h2 class="h6 fw-bold fs-4">Buy Assignment Help Services in Ireland and Obtain Extraordinary Grades</h2>
+          <p style="color: black;" class="pt-4">Buy Assignments Help Ireland’s services and obtain extraordinary grades in your exam results. Our well-organized company has served more than 48K students across Ireland. Get professional help from our top writers and make the most affordable approach by choosing their services. Whether your assignment concerns a thesis, case study, report, or research paper, our writers are pros who offer their services in many different tasks. </p>
+          <p style="color: black;" class="py-3" >Our writers' work is amazingly professional. They always provide original work that will meet all your needs and expectations. Our assignment writing company stands among the top 10 leading assignment help companies across Ireland. So we recommend you join us with our top-notch services. </p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Get Perfect at Your Academic Performance by the Quality Work Delivered by Our Top-Notch Academic Helpers</h2>
-          <p style="color: black;" class="pt-4">Despite doing your best in your academic work and submitting it on time, you need some guidance to maintain quality if you do not get your desired scores. Our academic services are open for consultation and guidance, where you can complete your entire work on time. Our writers have been working in this field for more than 10 years, so they know how to write perfect academic work.</p>
-          <p style="color: black;" class="py-3">In fact, we have a strict procedure for writing each academic work, which includes in-depth research and understanding of the topic of your task. Our writers also have the best research skills to help them collect relevant data and use them as solid facts and examples with proper references where needed. </p>
-          <p style="color: black;" class="py-3">They invest time in reading to expose their mind to more points to write in the academic work. Once they are done writing your paper, assignment, report, or any other academic work, they proofread and edit it many times to ensure no errors. So, get help in any subject or task, including management, social sciences, or nursing assignment, and receive it in the highest quality. </p>
+          <h2 class="h6 fw-bold fs-4">Buy Assignment Help Remotely to Astound Your Teacher</h2>
+          <p style="color: black;" class="py-3">It is difficult for many students to seek assignment help from a distance since most platforms don’t work remotely. However, Assignments Help Ireland offers speedy remote services and valuable and remarkable work that will astound your teacher. Our team is available to help the students by providing online services that meet their needs. With numerous tasks, assistance will help the students and release their burden and stress. So you can now buy cheapest assignment writing services online.  </p>
+          <p style="color: black;" class="py-3">Our assignment services are highly appreciated around Ireland, so we ensure we provide work with mind-blowing results. Our professional writers write assignments in a way that will easily grab your teacher’s attention, so don’t miss out on our services. </p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4"> Safe &amp; Welcome Academic Excellence Through Customized Academic Papers Writing from Assignments Help Ireland</h2>
-          <p style="color: black;" class="pt-4">If you are tired of the poor grades and your professor’s disappointment, come to us and get all your academic problems resolved with our help. We offer a custom academic writing service through which you can get your academic tasks completed exactly like your professor appreciates.</p>
-          <p style="color: black;" class="py-3">Whether it's a Master’s, PhD, Bachelor’s, or CIPD assignment, you can hire the best academic writer to complete it as per your requirements. Our writers are experts in dealing with different academic tasks and completing them as per the instructions. Since they are remarkably trained and experienced, they know how to fulfil each instruction without ruining the quality.</p>
-          <p style="color: black;" class="py-3">Furthermore, no matter if your task needs to be completed from scratch or from the midway, our writers can take it towards perfection. They proofread it and make corrections to meet your needs. So, you don’t have to worry about your grades, as professional help is at your fingertips. You can even surprise your professors with your superb work through our services.</p>
+          <h2 class="h6 fw-bold fs-4">Buy Assignment Help at An Affordable Price for Students from All Financial Backgrounds</h2>
+          <p style="color: black;" class="pt-4">Most students get frustrated when seeking professional assignment help because it is too costly. But we truly promise that we will provide you with professional services at an affordable price that will fit the needs of students of all financial statuses. Our assignment help company is ready to provide the top affordable services across Ireland. </p>
+          <p style="color: black;" class="py-3">Our top-notch services are available for both lower and middle-class students, so we are certain that we provide cheap assignment help. Many students from various Irish universities are eager to buy assignment help services from us since they know that our services are cheap. So join our community and buy the cheapest assignment writing services.</p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Accomplishments and Savings Side by Side with Our Affordable Academic Assignment Help</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="pt-4">Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything. </p>
-          <p style="color: black;" class="py-3">For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates. </p>
+          <h2 class="h6 fw-bold fs-4">The Most Proficient Assignment Writers in Ireland to Make Your Results a Masterpiece</h2>
+          <p style="color: black;" class="pt-4">Assignments Help Ireland is one of the top assignment writing services. We have an expert writing team that provides quality work. Our team is highly qualified and has exceeded the expectations of many students with world-class assignment work that no other company can provide. Our work is completely professional and meets the policies and requirements of all universities. </p>
+          <p style="color: black;" class="pt-4">Many Irish universities widely recognize our writers. They are highly educated, qualified, and skilled in their fields. So, we aim to provide students with the most trustworthy and professional services at a reasonable cost. We satisfy all the students with the quality work we provide, and they successfully attain higher grades than their previous results. Our highly cooperative team offers endless support and services to all students, whether online or off-site.  </p>
         </div>
       </div>
       <div class="row">
@@ -1128,7 +1125,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-four.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">I am really amazed at their services. Assignments Help Ireland is the leading platform, and this is not the first time I have used their services, so I can assure you that this company is very professional and affordable. 
+              <p class="text-center mx-lg-5">I am really pleased with the quality services by Assignments Help Ireland. This company is highly recognized by top universities and is the most affordable. I highly recommend buying assignment help services from there. Thank you!
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1180,7 +1177,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Laura Marquee</h4>
+              <h4>~ Mark Henry</h4>
             </div>
           </div>
         </div>
@@ -1194,7 +1191,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-three.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">Assignments Help Ireland is the most reliable platform. It served thousands of students, including me. I am pleased with their quality work and timely delivery. Highly recommended!
+              <p class="text-center mx-lg-5">I had a very incredible experience with Assignments Help Ireland. This company always provide top-notch services. I also suggested that two of my friends buy assignment help services there, and they also got the desired results. I highly recommend it!
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1246,7 +1243,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Henry James  </h4>
+              <h4>~ Pedro Lee </h4>
             </div>
           </div>
         </div>
@@ -1260,7 +1257,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-two.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">Assignments Help Ireland is an easy and affordable platform offering a variety of online assignment services with professionalism. I am amazed with the grades that I have obtained after using their services. It is a reliable platform, and I highly recommend it. 
+              <p class="text-center mx-lg-5">The top assignment writers you can only find in Assignments Help Ireland. This incredible company exceeded my expectations with great writing skills that helped me complete my assignment. I highly recommend that others buy assignment help services from them. 
 
               </p>
             </div>
@@ -1313,7 +1310,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Peter Phillips </h4>
+              <h4>~ Janet Carter </h4>
             </div>
           </div>
         </div>
@@ -1327,7 +1324,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-one.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">One of the best platforms I have ever serviced. They offer highly affordable services with cheap prices, and the writers are very professional, highly educated, and experienced. They provided me with a solid piece of work. Thank you!
+              <p class="text-center mx-lg-5">I am happy with the quality of the work they provide. They are the best assignment writers I have ever found in this company. I completed my assignments with their help and obtained high grades in my exams. Thank you!
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1379,7 +1376,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h6>~ Eric Porter</h6>
+              <h6>~ Susan Nick</h6>
             </div>
           </div>
         </div>
@@ -1399,40 +1396,70 @@
     <div class="row">
 
       <div style="background-image: url(images/bg-image.jpg); background-size: cover; background-repeat: no-repeat;"
-        class="order-1 order-md-0 col-md-5">
-        <div id="accordion" style="padding: 30px;" class="ireland-students-faq assignment">
-          <h3 class="py-3" style="color: #192E47; text-align: left;">Frequently Asked Questions</h3>
-          <div class="card mb-0 border-0">
+      class="order-1 order-md-0 col-md-5">
+      <div id="accordion" style="padding: 30px;" class="ireland-students-faq assignment">
+        <h3 class="py-3" style="color: #192E47; text-align: left;">Frequently Asked Questions</h3>
+        <div class="card mb-0 border-0">
             <div class="accortion-list">
               <div class="card-header mt-0 collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false">
-                <a class="card-title"> Can I get the best academic assignment help in Ireland?</a></div>
+                <a class="card-title">Where can I get the best assignment help in Ireland?</a></div>
               <div id="collapseOne" class="card-body collapse" data-parent="#accordion" style="">
-                <p>Yes! Assignments Help Ireland is the leading platform in Ireland that has been serving high-quality Irish students for over 10 years. You can fill out the form on our website and order our academic services. </p>
-              </div>
+                <p>You can get the best assignment help in Ireland by checking online on the internet. Ensure you check the reviews and ratings of the assignment help company you find. 
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-                aria-expanded="false"> <a class="card-title">Can you write academic assignments for me in Ireland at reasonable charges?</a></div>
+                aria-expanded="false"> <a class="card-title">Is taking help with assignments in Ireland legal?</a></div>
               <div id="collapseTwo" class="card-body collapse" data-parent="#accordion">
-                <p>Of course! Our rates are cheaper than other platforms offering academic services in Ireland. Our pride lies in delivering quality services at reasonable prices.</p>
+                <p>Yes, it is legal to take assignment help in Ireland, as we abide by the rules and policies of Irish Universities.</p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-                aria-expanded="false"> <a class="card-title">Do you guarantee originality if I buy academic papers from your platform?</a></div>
+                aria-expanded="false"> <a class="card-title">Is there any way I can get my assignment done quickly?</a></div>
               <div id="collapseThree" class="card-body collapse" data-parent="#accordion">
-                <p>Yes, maintaining originality in academic work is one of our main goals. Our writers always invest time in reading, understanding, and researching the topic before writing it to maintain originality. </p>
+                <p>Yes, you can request urgent assignment help services from us to get your assignment done quickly.</p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-                aria-expanded="false"> <a class="card-title">Do you have qualified writers who can write my academic assignment?</a></div>
-              <div id="collapseFour" class="collapse" data-parent="#accordion">
+                aria-expanded="false"> <a class="card-title">How can I trust Assignments Help Ireland?</a></div>
+              <div id="collapseFour" class="card-body collapse" data-parent="#accordion">
+                <p>Our more than 10 years of experience and serving more than 48K students with high ratings and positive reviews ensure that our assignment help Ireland services are trustable. </p>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+                aria-expanded="false"> <a class="card-title">Do you provide assignment help in all cities?</a></div>
+              <div id="collapseFive" class="card-body collapse" data-parent="#accordion">
+                <p>Yes, we provide assignment help services in all cities, including Dublin, Waterford, Cork, Galway, etc. </p>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+                aria-expanded="false"> <a class="card-title">How can I pay for my assignment help?</a></div>
+              <div id="collapseSix" class="card-body collapse" data-parent="#accordion">
+                <p>You can pay for our services through credit or debit card.</p>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"
+                aria-expanded="false"> <a class="card-title">How can I trust Assignments Help Ireland?</a></div>
+              <div id="collapseSeven" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <p>Yes, each writer in our team is qualified with Master's and PhD degrees in reputable fields. They all possess astounding knowledge and skills due to their vast work experience.  </p>
+                  <p>Our more than 10 years of experience and serving more than 48K students with high ratings and positive reviews ensure that our assignment help Ireland services are trustable. </p>
                 </div>
               </div>
             </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight"
+                aria-expanded="false"> <a class="card-title">Do you provide any discounts or offers on assignment help?</a></div>
+              <div id="collapseEight" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>Yes, we provide discounts, including free packages for assignment help. </p>
+                </div>
+              </div>
+            </div>
+          </div>
            
           </div>
         </div>
@@ -1460,14 +1487,14 @@
         <div class="cta-text col-xl-7 col-lg-6 col-md-12">
           <!-- heading -->
           <div>
-            <h3 class="text-white display-6 fw-bold pe-lg-8">Grade-Winning Academic Papers For Students Across Ireland
+            <h3 class="text-white display-6 fw-bold pe-lg-8">The Noteworthy Buy Assignment Help Service at a Reasonable Price
             </h3>
             <!-- text -->
             <p class="text-white mb-4 lead">
-              Rely on us to resolve your academic queries!
+              Avail yourself an opportunity to get our noteworthy assignment writing services at a reasonable price. 
             </p>
             <!-- btn -->
-            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Order academic paper writing</a>
+            <a href="#" style="background-color: white; color: #0b2051;" class="btn"> Get Assignment Help Online</a>
           </div>
         </div>
 

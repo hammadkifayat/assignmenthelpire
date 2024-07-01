@@ -1,6 +1,6 @@
 @extends('layouts.web')
-@section('title', ' Noteworthy Online Academic Writing Services Across Ireland')
-@section('description', ' Take a much-needed break from all kinds of academic work with the best academic writing services all over Ireland. Get your tasks done by our proficient writers.')
+@section('title', ' The Professional CIPD Assignment Help Services by Experts')
+@section('description', 'Harness your potential and enhance your grades by choosing the best CIPD Assignment Help services from Assignments Help Ireland and get your results on top. ')
 @section('canonical', config('app.url') . Request::path())
 @section('content')
 <section class="home-banner text-center text-lg-start">
@@ -8,9 +8,10 @@
     <div class="row align-items-center">
       <div class="col-lg-4">
         <h1 style="font-size: 1.6rem; font-weight: bold;"
-         class="text-uppercase font-weight-bold text-light mb-2">Distinctive 
-         -<span style="color: #192D48;">Academic Writing Services in Ireland Providing Best Academic Solutions</span></h1>
-        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Do your daily academic tasks add to your stress and keep you from peace of mind? Say no to your stress this time because we have a solution for you. Our affordable academic writing services will give you the break you have been craving for a long time. For over 10 years, we have helped more than 48,000 students with their academic work and earned their appreciation. </p>
+         class="text-uppercase font-weight-bold text-light mb-2">Find Your Way Towards Perfection by Ordering
+         -<span style="color: #192D48;"> CIPD Assignment Help 
+        </span></h1>
+        <p class="text-dark font-weight-bold mb-2 font-weight-normal">If you are seeking perfection in your CIPD assignments, Assignments Help Ireland is the best choice for you. It is the top and the leading platform to craft an ideal CIPD assignment for you. Our platform has been working for more than 10 years and offers its service to 48K students. With a 98% positive rating, our company is highly popular across Ireland, delivering you the best CIPD assignment help services.  </p>
         <div class="banner-features d-none d-md-block" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
             <div class="col-md-6 p-1" bis_skin_checked="1">
@@ -21,6 +22,9 @@
                         <h5 class="mb-0 ">48K Students</h5>
                     </div>
                 </div>
+
+
+                
             </div>
             <div class="col-md-6 p-1" bis_skin_checked="1">
                 <div class="feature align-items-center" bis_skin_checked="1">
@@ -112,7 +116,7 @@
               <div class="text-center m-t-10"><span class="c-text">The price is &nbsp;<span class="number">€
                     <span>10</span>&nbsp;<sub><del>€ <span>20</span></del></sub></span></span></div>
               <div class="text-sm-start"><button style="background-color: #0b2051; color: white;"
-                  class="btn btn-md d-block btn-dual-shade w-100">  Write my academic assignment</button>
+                  class="btn btn-md d-block btn-dual-shade w-100">Buy Childcare Assignment Writing Services!</button>
               </div>
             </form>
           </div>
@@ -140,7 +144,7 @@
               </svg></div>
             <div class="col-9"><span class="grades">A+ Grades</span><span class="t-text">Guranteed</span></div>
           </div>
-        </div><img src="images/Main Image.png" class="img-fluid dem lazyloaded" alt="Write My Assignment IE"
+        </div><img src="images/Service page image.webp" class="img-fluid dem lazyloaded" alt="Write My Assignment IE"
           title="Write My Assignment IE" loading="lazy" width="285" height="330"
           src="https://static.writemyassignment.ie/assets/frontend/images/simple/write-my-assignments.webp">
         <div class="box2">
@@ -236,11 +240,14 @@
 <section>
   <div style="background: #DBECFE;" class="container-fluid py-5 px-5">
     <div class="content-wrapper text-center">
-      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Make All the Academic Goals Achievable Through Our Academic Paper Writing Help</h2>
-      <p style="color: #182E47;" class="mb-4 font-weight-bold">Dreaming about achieving academic goals is what all students do, but turning that dream into reality is not always in their hands. We understand that not every student has the capacity to achieve academic success, so we offer our phenomenal academic services to give them a helping hand.</p>
-      <p style="color: #182E47;" class="mb-4">Our mission is not just to complete your academic work, but we also strive to capture excellent scores through it. Our assistance also lets students have some break from their consecutive assignments and tasks, in which they can meet their commitments. It means you can score better without even struggling with your academic work. That’s why we always pay attention to your “Do My Assignment” call.</p>
+      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Let Your Work Position at the Top - The High-Quality CIPD Assignment Help </h2>
+      <p style="color: #182E47;" class="mb-4 font-weight-bold">Transform your work to quality work by pursuing our top CIPD assignment writing service. Our platform is ready to bring a perfect positive change in the quality of your work, making your CIPD assignment engaging and impressive. We have a team of very talented and expert writers who always value quality work. They are highly skilled and qualified in crafting a perfect CIPD assignment for students. 
+      </p>
+      <p style="color: #182E47;" class="mb-4">Moreover, our CIPD professional writers provide quality work on various CIPD subjects, including behavioural sciences, absence management, change management, HR roles, Job quality, and many more. Also, many of our writers are qualified with CIPD degrees and are well aware of its assignment work. 
+      </p>
 
-      <p style="color: #182E47;">Our writers also specialize in researching, proofreading, formatting, and editing. Assignments Help Ireland has provided services to thousands of students and helped them achieve their desired grades. Therefore, once you order our services, we guarantee the best results with outstanding grades.</p>
+      <p style="color: #182E47;">They hold great potential in writing a compelling CIPD assignment and help the students bring impressive grades. So, you must get your way to our platform to get high-quality CIPD assignment help. 
+      </p>
     </div><!--.content-wrapper-->
   </div>
 </section>
@@ -274,7 +281,7 @@
         </div>
       </div>
     </div>
-    <span class="d-flex justify-content-center"> <a href="#" class="btn-new">Send Us Query Now</a>
+    <span class="d-flex justify-content-center"> <a href="#" class="btn-new">Buy case study writing services!</a>
   </div>
 
   </span>
@@ -286,21 +293,22 @@
     <div class="row mb-5 align-items-center">
       <div class="col-lg-6 p-4">
         <h2 class="text-2xl mb-6 font-medium">
-        Join Hands with the Prominent Academic Assignment Writing Website to Get Help Countrywide
+          Let Your Career Success Unfold - The Perfect CIPD Assignment Help
         </h2>
         <p>
-        Struggling with academics is no less than a nightmare for students. But students deal with it for the sake of good grades. Therefore, we have the most convenient way out of that. Assignments Help Ireland is the most reliable service to help you with all your academic tasks in a way that will benefit you with your grades.
+          Bring a drastic change in your results and enrich your career with great success by pursuing our CIPD assignment help in Ireland. Assignments Help Ireland holds great potential in delivering the best quality work across Ireland. Our proficient CIPD assignment writers are well-versed in their fields, providing top-notch services. If you want to make sure about our quality work, you can also get a look at our work samples. 
         </p>
         <br>
         <p>
-        Our academic writing center is not far from you in any way because we deliver our help to every corner of every street in Ireland. Thanks to our online platform, you can avail of our help in Dublin, Galway, Limerick, Waterford, Cork, Kilkenny, and all the other areas. You can leave your tasks to us with just a few clicks on our website and receive the complete version from us without any hassle. 
+          Our writers are highly committed to delivering work that meets all the students’ criteria. Moreover, for those looking for timely delivery, our writers ensure that they submit the solved CIPD unit assignment work before the due date. Our team of professional writers is keen to satisfy the students with their desired results so they also provide 24/7 support to them. So, if you are also looking for these services, feel free to join us.
         </p>
+      
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Do my academic papers
+              Get CIPD assignment help!            
             </button>
           </a>
         </div>
@@ -315,22 +323,22 @@
       </div>
       <div class="col-lg-6 p-4 order-1 order-md-2">
         <h2 class="text-2xl mt-4 my-4 font-medium">
-        Trust Our Incredible Irish Academic Writing Expert Organisation for Instant Academic Assistance
+          Our Topmost Long-Distance Services - Online CIPD Writing Help in Ireland        
         </h2>
         <p>
-        Submission of academic work on time is a real struggle because every student fears losing scores. Our services welcome you if you are ready to partner with a professional organization for your assignment help. We promise to take care of your academic work and complete it on time so you don’t miss your deadline.
+          Assignments Help Ireland is a platform that also offers online services no matter where you are. This excellent opportunity is available for those who want to work directly at their homes. Our platform has more than 200 CIPD assignment writers in Ireland to provide you with better guidance on CIPD assignments online. You can just submit your CIPD assignment details online and place an order. Moreover, we also provide CIPD level 3 assignment help online. 
         </p>
         <br>
         <p>
-        Moreover, if your deadline is just around the corner and you haven’t started the assignment yet, we provide a solution for that as well. We have an urgent academic writing offer since our team has over 5000 qualified academic helpers who work on different shifts. We’ll ensure that your work is completed on time and save you from losing even a single score due to late submission.
-        </p>
+          We will provide you with the most proficient and knowledgeable CIPD assignment writer who will work for you. You can contact the writers anytime via chat and ask for any related queries, and they will help you with that. So don’t wait longer; you are just one click away from opting for our services.         </p>
+        
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Write my academic paper in Ireland
-            </button>
+              Order assignment help online!          
+              </button>
           </a>
         </div>
       </div>
@@ -345,10 +353,8 @@
     <div class="row">
       <div class="col-md-12">
         <h3 class="text-center">
-        What Makes Assignments Help Ireland Worthwhile to Your Attention?
-        </h3>
-        <p class="text-center">
-        Get a package full of perks with our academic writing services for an astounding experience with us.
+          Why Choose CIPD Assignment Help Services?
+                </h3>
       </div>
     </div>
     <div class="row">
@@ -361,9 +367,10 @@
                   <img src="images/__Low price.png" alt="Quality img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Affordable Assignment Help Services</h4>
+                  <h4 class="qualtiy-box-title">Low-Priced Assignment Solutions 
+                  </h4>
                   <p class="wrapper-text">
-                  We assure you that our services are highly affordable for students with various financial standards. Our services are cheap yet professional for everyone. 
+                    Affordability for the students is very important. Therefore, Assignments Help Ireland provides cheap CIPD assignment services to all students regardless of their financial status. We ensure that our services meet the students’ budget easily. 
 
 
                   </p>
@@ -376,9 +383,11 @@
                   <img src="images/__Experienced Writers.png" alt="writer img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Professional Assignment Writers Help</h4>
+                  <h4 class="qualtiy-box-title">Timely Delivery 
+                  </h4>
                   <p class="wrapper-text">
-                  We have a team of writers with professional experience to ensure you will receive quality work without exception. So, you don’t need to worry about your tasks since our writers are here for you.
+                    We greatly value time and the importance of deadlines. So, we ensure that we provide the complete assignments to students before the deadline for their submission. 
+
 
 
                   </p>
@@ -392,10 +401,10 @@
                   <img src="images/__Timely Delivery.png" alt="deadline img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Fast Delivery</h4>
+                  <h4 class="qualtiy-box-title">24/7 Dedicated Customer Support 
+                  </h4>
                   <p class="wrapper-text">
-                  We believe that time is important for everyone. Since we offer fast delivery, we will always provide you with your completed task before the deadline with quality. 
-                  </p>
+                    Our platform provides 24/7 customer support so if you have any doubts or queries, you can ask us anytime.                   </p>
                 </div>
 
               </div>
@@ -406,9 +415,10 @@
                   <img src="images/100-Plag free.png" alt="source img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">100% Plagiarism-Free Content</h4>
+                  <h4 class="qualtiy-box-title">Assistance from Experienced Writers
+                  </h4>
                   <p class="wrapper-text">
-                  Our team of writers always provides original, 100% plagiarism-free content without copyright issues. We also assure you of the best work. 
+                    Our platform has a team of experienced and talented writers who are highly proficient in their writing skills. So we can ensure that you will always get the perfect quality work from us. 
 
                   </p>
                 </div>
@@ -421,9 +431,10 @@
                   <img src="images/__24-7 customer support.png" alt="support img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">24-hour Customer Support </h4>
+                  <h4 class="qualtiy-box-title">100% Plagiarism-Free Assignment </h4>
                   <p class="wrapper-text">
-                  We provide our clients with 24-hour support, so you can freely contact us at any time with any queries or doubts. 
+                    We always provide quality content free from plagiarism. Our content is original and is checked through the top plagiarism tools such as Turnitin to ensure that our content is 100% unique. 
+
                   </p>
                 </div>
 
@@ -435,10 +446,11 @@
                   <img src="images/__Free samples.png" alt="hidden img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Free Work Examples</h4>
+                  <h4 class="qualtiy-box-title">Free Assignment Samples 
+                  </h4>
                   <p class="wrapper-text">
-                  We also offer our free work examples to clients to give them an idea of our quality work, and they will deliver it to them. <a href="#"></a></p>
-                </div>
+                    We will also present you with free CIPD assignment samples to give you an idea about the work that you will receive. 
+                  </div>
 
               </div>
             </div>
@@ -493,7 +505,7 @@
   </div>
 </section>
 
-<section>
+<section class="writers">
   <div class="position-relative px-0 pb-5">
     <div style="padding-left: 2rem; padding-right: 2rem;" class="container mx-auto">
       <h3 style="color: #5A5959;" class="text-center mt-5">Meet Our
@@ -508,7 +520,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Jenna" title="Jenna"
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -516,7 +528,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><h4 class="h5 mb-0">Mark Lee</h4>
+                      <div class="col-md-6"><h4 class="h5 mb-0">Jenna</h4>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -572,18 +584,17 @@
 
                         </div>
                         <div class="row g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;" class="">PhD Degree</h5>
+                          <div class="col-md-6"><h5  class="">PhD Degree</h5>
                           </div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 18,752<h5
+                          <div class="col-md-6"><h5>12355 <span
                                 style="font-weight: normal">Orders
-                                </span></span></div>
+                                </span></h5></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 14,925 <h5
-                                style="font-weight: normal;"> Reviews
-                                </span></span></div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 98% <span
-                                style="font-weight: normal;">Success Rate</span></span>
+                          <div class="col-md-6"><h5> 11456 <span> Reviews
+                                </span></h5></div>
+                          <div class="col-md-6"><h5> 99% <span
+                                style="font-weight: normal;">Success Rate</span></h5>
                           </div>
                         </div>
 
@@ -595,7 +606,9 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Mark Lee has offered professional services for over five years with a 5-star rating and a 98% success rate and has completed 8000 orders in Assignment Help Ireland. He is qualified with a PhD and specializes in many different modes of writing, including case studies, reports, essays, and more. His written documents always help students achieve better grades across Ireland. "</p>
+                          <p>
+                            Meet our professional writer, Jenna. She is highly qualified, with a PhD degree, and has completed 12355 orders with 11456 reviews. Many Irish students highly honour her. Her overall rating is 5 stars, and her success rate is 99%. 
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -614,7 +627,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-three.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-three.svg" alt="Jessica " title="Jessica "
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -622,7 +635,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><h4 class="h5 mb-0">Jack Martin</h4>
+                      <div class="col-md-6"><h4 class="h5 mb-0">Jessica </h4>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -680,15 +693,15 @@
                         <div class="row g-0">
                           <div class="col-md-6"><h5 style="font-weight: 600;" class="">Master’s Degree</h5>
                           </div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 8,215 Orders  <span
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 7877  Orders  <span
                                 style="font-weight: normal">Orders
                                  </span></h5></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;">6,958 <span
+                          <div class="col-md-6"><h5 style="font-weight: 600;">6532  <span
                                 style="font-weight: normal;"> Reviews
                                 </span></h5></div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 99% <span
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 98% <span
                                 style="font-weight: normal;"> Success Rate</span></h5>
                           </div>
                         </div>
@@ -701,7 +714,9 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Jack Martin, with 10 years of experience in Assignments Help Ireland, completed more than 8000 orders with a 4.9/5 rating and received 7,000 reviews. He helped thousands of students across Ireland with his professional writing services. He is qualified with a master's in English and outstanding grades. The studying company appreciated him for his quality services, as his success rate is 99%."</p>
+                          <p>
+                            Jessica is a professional CIPD writer that we have hired. She holds PhD degree and finished 12355 orders with 11456 reviews. She is an excellent CIPD assignment writer with a 4.9/5 star rating and a success of 98%. She also helped many CIPD course level 3 students across Ireland achieve the desired results. 
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -720,7 +735,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-two.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-two.svg" alt="Jeff " title="Jeff "
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -728,7 +743,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><span class="h5 mb-0">Joshua</span>
+                      <div class="col-md-6"><span class="h5 mb-0">Jeff </span>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -784,18 +799,18 @@
 
                         </div>
                         <div class="row g-0">
-                          <div class="col-md-6"><span style="font-weight: 600;" class="">PhD</span>
+                          <div class="col-md-6"><span style="font-weight: 600;" class="">MPhil Degree</span>
                           </div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 2855 <span
-                                style="font-weight: normal">Assignments
-                                Written</span></span></div>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 9876 <span
+                                style="font-weight: normal">Orders
+                                </span></span></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><span style="font-weight: 600;"> 96% <span
-                                style="font-weight: normal;">Client
-                                Retention</span></span></div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 300+ <span
-                                style="font-weight: normal;">Reviews</span></span>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 8900  <span
+                                style="font-weight: normal;">Reviews
+                                </span></span></div>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 98%  <span
+                                style="font-weight: normal;">Success Rate</span></span>
                           </div>
                         </div>
 
@@ -807,12 +822,118 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Hello students. Meet Joshua, the most consistent
-                            performer of our team. If you are wondering who
-                            can write my assignment in Dublin, this is the
-                            guy that you can surely trust. He will not let
-                            you down and will pick up your grades with an
-                            exceptional assignment."</p>
+                          <p>
+                            Jeff has been offering his services for more than 6 years and completed 9876 orders with 8900 positive reviews. He is qualified with an MPhil degree and has gained a 4.9/5 star rating with a 98% success rate. His written CIPD assignments never fail to achieve excellent grades. Many students across Ireland truly appreciate his work and effort in delivering his best services. 
+                          </p>
+                        </div>
+                        <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
+                            style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
+                            Paper </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div style="display: block;" class="mySlides">
+            <div class="professional-box">
+              <div class="row align-items-center g-0">
+                <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Joel " title="Joel "
+                    loading="lazy" width="250" height="180">
+                </div>
+                <div class="col-lg-9">
+
+
+                  <div class="team-box">
+                    <div class="row">
+                      <div class="col-md-6"><h4 class="h5 mb-0">Joel </h4>
+                        <div class="d-flex">
+                          <div class="e-text">
+                            4.9 Rating
+                          </div>
+                          <ul style="list-style: none; padding-left: 0rem;"
+                            class="d-flex justify-content-center align-content-center">
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                          </ul>
+
+                        </div>
+                        <div class="row g-0">
+                          <div class="col-md-6"><h5 style="font-weight: 600;" class="">PhD Degree</h5>
+                          </div>
+                          <div class="col-md-6"><h5 style="font-weight: 600;">11434  <h5
+                                style="font-weight: normal">Orders
+                                </span></span></div>
+                        </div>
+                        <div class="row mt-3 g-0">
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 10232  <h5
+                                style="font-weight: normal;"> Reviews
+                                </span></span></div>
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 99% <span
+                                style="font-weight: normal;">Success Rate</span></h5>
+                          </div>
+                        </div>
+
+                        <ul style="padding-left: 0rem;" class="topics-covered m-t-30">
+                          <li class="list-inline-item">Reflective Writing</li>
+                          <li class="list-inline-item">Content Expert</li>
+                          <li class="list-inline-item">Blog Writer</li>
+                        </ul>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="px-3 py-3 paragraph-box">
+                          <p>
+                            Joel has been working on our platform for more than 8 years and is delivering high-quality CIPD assignments. He helped thousands of students in securing outstanding grades, He is qualified with PhD degree completed 11434 orders and received 10232 reviews. He has an overall rating of 5 stars with a success rate of 99%. 
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -832,6 +953,7 @@
           <span class="dot" onclick="currentSlide(1)"></span>
           <span class="dot" onclick="currentSlide(2)"></span>
           <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span>
         </div>
       </div>
     </div>
@@ -843,30 +965,59 @@
     <div style="padding-left: 1rem;" class="row">
       <div class="row m-t-20">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Escalate Towards the Achievements with the Support of Our Professional Academic Paper Writers</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="py-3" >Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything.</p>
-          <p style="color: black;" class="py-3" >For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates.</p>
+          <h2 class="h6 fw-bold fs-4">
+            Greatness Lies in Your Grades - The Perfect Quality CIPD Assignment Service 
+                    </h2>
+          <p style="color: black;" class="pt-4">
+            Our professional writers provide premium CIPD assignment writing services to help you reach high standard grades. We have a team of top CIPD writers who will not only deliver you quality work but will satisfy all your assignment needs. With great quality content, our writers are keen to provide you with great benefits in enhancing your career. 
+          </p>
+          <p style="color: black;" class="py-3" >
+            Our expert writers offer level 5 assignment help on various subjects, including behavioral sciences, employment relationship management, labour law, well-being at work, etc. All our writers are highly qualified and knowledgeable in CIPD, so you can be assured of our perfect quality work, which will lead you to excellent results. 
+          </p>
+          <p style="color: black;" class="py-3" >
+            Furthermore, our assignment writers have incredible English writing with a professional tone to make your assignment more engaging and eye-catching. If you want to make your assignment stand among the top ten grades, let us know and we will provide you an Irish CIPD assignment helper.
+
+          </p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Get Perfect at Your Academic Performance by the Quality Work Delivered by Our Top-Notch Academic Helpers</h2>
-          <p style="color: black;" class="pt-4">Despite doing your best in your academic work and submitting it on time, you need some guidance to maintain quality if you do not get your desired scores. Our academic services are open for consultation and guidance, where you can complete your entire work on time. Our writers have been working in this field for more than 10 years, so they know how to write perfect academic work.</p>
-          <p style="color: black;" class="py-3">In fact, we have a strict procedure for writing each academic work, which includes in-depth research and understanding of the topic of your task. Our writers also have the best research skills to help them collect relevant data and use them as solid facts and examples with proper references where needed. </p>
-          <p style="color: black;" class="py-3">They invest time in reading to expose their mind to more points to write in the academic work. Once they are done writing your paper, assignment, report, or any other academic work, they proofread and edit it many times to ensure no errors. So, get help in any subject or task, including management, social sciences, or nursing assignment, and receive it in the highest quality. </p>
+          <h2 class="h6 fw-bold fs-4">
+            Uniqueness is What We Offer - CIPD Assignment Writing Help in Ireland
+          </h2>
+          <p style="color: black;" class="pt-4">
+            Our team of writers is highly reliable and trustable that you must work with. They are committed to providing 100% original content that is free from plagiarism and copyright issues. Unique content is always good and engaging and therefore, our writers are experienced in crafting high-quality content with great uniqueness. 
+          </p>
+          <p style="color: black;" class="py-3">
+            In addition, our professional writers are aware of the distinct and appropriate vocabulary to write 100% original assignments. This also includes a special introduction and description of the overall assignment. The top-most writers of our team work significantly to meet your academic goals. They use reliable tools to check for plagiarism before delivering the work. This ensures that our platform is genuine and provides original work. 
+          </p>
+          
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4"> Safe &amp; Welcome Academic Excellence Through Customized Academic Papers Writing from Assignments Help Ireland</h2>
-          <p style="color: black;" class="pt-4">If you are tired of the poor grades and your professor’s disappointment, come to us and get all your academic problems resolved with our help. We offer a custom academic writing service through which you can get your academic tasks completed exactly like your professor appreciates.</p>
-          <p style="color: black;" class="py-3">Whether it's a Master’s, PhD, Bachelor’s, or CIPD assignment, you can hire the best academic writer to complete it as per your requirements. Our writers are experts in dealing with different academic tasks and completing them as per the instructions. Since they are remarkably trained and experienced, they know how to fulfil each instruction without ruining the quality.</p>
-          <p style="color: black;" class="py-3">Furthermore, no matter if your task needs to be completed from scratch or from the midway, our writers can take it towards perfection. They proofread it and make corrections to meet your needs. So, you don’t have to worry about your grades, as professional help is at your fingertips. You can even surprise your professors with your superb work through our services.</p>
+          <h2 class="h6 fw-bold fs-4">
+            Relieve Your Budget by Choosing Our Inexpensive Services 
+
+          </h2>
+          <p style="color: black;" class="pt-4">
+            Want to get rid of high expenses? Choose our services, and you can relieve your budget. Assignments Help Ireland is one of the leading CIPD assignments companies in Ireland that presents cheap assignment services that are affordable for almost every student in Ireland. Furthermore, we don’t want to hurt the budget of those who come to us for learning and guidance. 
+          </p>
+          <p style="color: black;" class="py-3">
+            Therefore, we do our best to provide our services as cheaply as possible. Also, we offer various packages free of cost so that the students can fulfil their demands easily. Moreover, we provide unlimited revisions with few charges and free 24/7 customer support for any queries relevant to the CIPD assignment. So we encourage you to buy Cipd assignments services in Ireland.          </p>
+     
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Accomplishments and Savings Side by Side with Our Affordable Academic Assignment Help</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="pt-4">Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything. </p>
-          <p style="color: black;" class="py-3">For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates. </p>
+          <h2 class="h6 fw-bold fs-4">
+            Assignments Help Ireland - The Best Place to Cover All Your Exams 
+          </h2>
+          <p style="color: black;" class="pt-4">
+            Assignments Help Ireland is the best platform across Ireland, where you will find top CIPD writers to compose outstanding papers and cover all your topics. Our talented writers know about the high-level CIPD assignments very well and how to craft a perfect piece based on your instructions. 
+          </p>
+          <p style="color: black;" class="pt-4">
+            Our experts are here to help you with all your assignments, so there’s no need to worry about your exams. Assignments Help Ireland offers a cheap package for covering all your CIPD assignments. By joining us, you will be able to ease all your challenges and complexities with the assignments. 
+          </p>
+          <p style="color: black;" class="py-3">
+            The writers of our team are perfect authors and professionals who will collect accurate information about the topic and transform it into a perfect piece of paper. We will manage all the information on the topic and deal with all the difficult tasks that will make you feel like you are working effortlessly. So, what are you looking for? Come to us and pick our best Assignment Help services in Ireland.
+          </p>
         </div>
       </div>
       <div class="row">
@@ -1385,9 +1536,9 @@
         </div>
       </div>
       <div class="text-center mt-2 pb-5">
-        <span class="dotTwo" onclick="currentSlideTwo(1)"></span>
+        <span class="dotTwo  activeOne" onclick="currentSlideTwo(1)"></span>
         <span class="dotTwo" onclick="currentSlideTwo(2)"></span>
-        <span class="dotTwo activeOne" onclick="currentSlideTwo(3)"></span>
+        <span class="dotTwo" onclick="currentSlideTwo(3)"></span>
         <span class="dotTwo" onclick="currentSlideTwo(4)"></span>
       </div>
     </div>
@@ -1405,34 +1556,54 @@
           <div class="card mb-0 border-0">
             <div class="accortion-list">
               <div class="card-header mt-0 collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false">
-                <a class="card-title"> Can I get the best academic assignment help in Ireland?</a></div>
+                <a class="card-title">Who are your childcare assignment writers in Ireland?</a></div>
               <div id="collapseOne" class="card-body collapse" data-parent="#accordion" style="">
-                <p>Yes! Assignments Help Ireland is the leading platform in Ireland that has been serving high-quality Irish students for over 10 years. You can fill out the form on our website and order our academic services. </p>
+                <p>Our childcare assignments are highly professional, and most of them are childcare assistants who are highly qualified with their childcare skills. And they provide students with childcare homework help in Ireland. </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-                aria-expanded="false"> <a class="card-title">Can you write academic assignments for me in Ireland at reasonable charges?</a></div>
+                aria-expanded="false"> <a class="card-title">What is Fetac Level 6 supervision in childcare assignments?
+                </a></div>
               <div id="collapseTwo" class="card-body collapse" data-parent="#accordion">
-                <p>Of course! Our rates are cheaper than other platforms offering academic services in Ireland. Our pride lies in delivering quality services at reasonable prices.</p>
+                <p>Fetac Level 6 is the highest award level achieved by students who are highly skilled, fluent, and capable of solving difficult problems.</p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-                aria-expanded="false"> <a class="card-title">Do you guarantee originality if I buy academic papers from your platform?</a></div>
+                aria-expanded="false"> <a class="card-title">How can assignmentshelp.ie help me with my childcare assignment?</a></div>
               <div id="collapseThree" class="card-body collapse" data-parent="#accordion">
-                <p>Yes, maintaining originality in academic work is one of our main goals. Our writers always invest time in reading, understanding, and researching the topic before writing it to maintain originality. </p>
+                <p>Assignments Help Ireland is the leading platform in Ireland that provides comprehensive solutions for childcare assignments. Its team of highly professional writers is well-versed in their professions and produces quality work for students.  </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-                aria-expanded="false"> <a class="card-title">Do you have qualified writers who can write my academic assignment?</a></div>
+                aria-expanded="false"> <a class="card-title">Do you also provide plagiarism-free childcare Assignment Solutions to Irish students?</a></div>
               <div id="collapseFour" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <p>Yes, each writer in our team is qualified with Master's and PhD degrees in reputable fields. They all possess astounding knowledge and skills due to their vast work experience.  </p>
+                  <p>Yes, we provide students with childcare assignments that are free from plagiarism. Our writers ensure that they check the assignments through Turnitin and provide original work.   </p>
                 </div>
               </div>
             </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+                aria-expanded="false"> <a class="card-title">Who can write my childcare assignment for me at a cheap price?</a></div>
+              <div id="collapseFour" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>Assignments Help Ireland is the best platform for you to choose from since it offers very cheap childcare assignment services without additional charges.   </p>
+                </div>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+                aria-expanded="false"> <a class="card-title">What types of Childcare education assignments are done by your experts?</a></div>
+              <div id="collapseFour" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>Our experienced Childcare assignment writers provide childcare education assignments on various subjects, including childcare theses, case studies, research papers, dissertation assignments, QQI assignments, and much more.  </p>
+                </div>
+              </div>
+            </div>
+            
            
           </div>
         </div>
@@ -1460,14 +1631,14 @@
         <div class="cta-text col-xl-7 col-lg-6 col-md-12">
           <!-- heading -->
           <div>
-            <h3 class="text-white display-6 fw-bold pe-lg-8">Grade-Winning Academic Papers For Students Across Ireland
+            <h3 class="text-white display-6 fw-bold pe-lg-8">Choose Our Best Childcare Assignment Writing Help Ireland and Get High-Level Results
             </h3>
             <!-- text -->
             <p class="text-white mb-4 lead">
-              Rely on us to resolve your academic queries!
+              Hire our expert childcare assignment writers and get the best childcare assignment solutions. 
             </p>
             <!-- btn -->
-            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Order academic paper writing</a>
+            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Buy childcare assignment services!</a>
           </div>
         </div>
 

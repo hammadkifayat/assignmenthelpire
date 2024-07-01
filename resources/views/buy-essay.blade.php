@@ -1,6 +1,6 @@
 @extends('layouts.web')
-@section('title', ' Noteworthy Online Academic Writing Services Across Ireland')
-@section('description', ' Take a much-needed break from all kinds of academic work with the best academic writing services all over Ireland. Get your tasks done by our proficient writers.')
+@section('title', ' Buy Essay Online by Expert Writers at Affordable Rates')
+@section('description', ' Do not leave your essays undone anymore and buy essay help from the most reliable platform. Make an extraordinary academic progress with our experts’ help.')
 @section('canonical', config('app.url') . Request::path())
 @section('content')
 <section class="home-banner text-center text-lg-start">
@@ -8,9 +8,9 @@
     <div class="row align-items-center">
       <div class="col-lg-4">
         <h1 style="font-size: 1.6rem; font-weight: bold;"
-         class="text-uppercase font-weight-bold text-light mb-2">Distinctive 
-         -<span style="color: #192D48;">Academic Writing Services in Ireland Providing Best Academic Solutions</span></h1>
-        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Do your daily academic tasks add to your stress and keep you from peace of mind? Say no to your stress this time because we have a solution for you. Our affordable academic writing services will give you the break you have been craving for a long time. For over 10 years, we have helped more than 48,000 students with their academic work and earned their appreciation. </p>
+         class="text-uppercase font-weight-bold text-light mb-2">Buy
+         -<span style="color: #192D48;"> Essay Writing Help Ireland for An Appreciable Academic Performance</span></h1>
+        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Are you receiving many essay assignments these days? Don’t worry and get ready to buy essay services from Assignments Help Ireland. For over 10 years, we have been giving students the space to bring their essay topics and get perfectly written essays on time. As our services have helped more than 48,000 students, we have achieved their respect and trust which contributed to our 98.7% success rate. </p>
         <div class="banner-features d-none d-md-block" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
             <div class="col-md-6 p-1" bis_skin_checked="1">
@@ -112,7 +112,7 @@
               <div class="text-center m-t-10"><span class="c-text">The price is &nbsp;<span class="number">€
                     <span>10</span>&nbsp;<sub><del>€ <span>20</span></del></sub></span></span></div>
               <div class="text-sm-start"><button style="background-color: #0b2051; color: white;"
-                  class="btn btn-md d-block btn-dual-shade w-100">  Write my academic assignment</button>
+                  class="btn btn-md d-block btn-dual-shade w-100">  Buy essay services</button>
               </div>
             </form>
           </div>
@@ -236,11 +236,11 @@
 <section>
   <div style="background: #DBECFE;" class="container-fluid py-5 px-5">
     <div class="content-wrapper text-center">
-      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Make All the Academic Goals Achievable Through Our Academic Paper Writing Help</h2>
-      <p style="color: #182E47;" class="mb-4 font-weight-bold">Dreaming about achieving academic goals is what all students do, but turning that dream into reality is not always in their hands. We understand that not every student has the capacity to achieve academic success, so we offer our phenomenal academic services to give them a helping hand.</p>
-      <p style="color: #182E47;" class="mb-4">Our mission is not just to complete your academic work, but we also strive to capture excellent scores through it. Our assistance also lets students have some break from their consecutive assignments and tasks, in which they can meet their commitments. It means you can score better without even struggling with your academic work. That’s why we always pay attention to your “Do My Assignment” call.</p>
+      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Buy Reliable Essay Helps in Ireland to Chase An Unimaginable Level of Success</h2>
+      <p style="color: #182E47;" class="mb-4 font-weight-bold">If you are in search of essay help, give us a gesture or simply say “Write my essay”, and we will get to you to solve your essay queries. This platform is the safest place for you in Ireland to drop your essay topic, consult with an expert for guidance, or get your essays proofread or edited. </p>
+      <p style="color: #182E47;" class="mb-4">Our team is all ears to listen to each of your queries and give you expert essay solutions. Our essay help is beneficial to every student struggling with their essays in Ireland. So, whenever you are stuck in essay writing, you can reach out to us, and we will do our best to book your seat at the highest success level.</p>
 
-      <p style="color: #182E47;">Our writers also specialize in researching, proofreading, formatting, and editing. Assignments Help Ireland has provided services to thousands of students and helped them achieve their desired grades. Therefore, once you order our services, we guarantee the best results with outstanding grades.</p>
+    
     </div><!--.content-wrapper-->
   </div>
 </section>
@@ -286,21 +286,21 @@
     <div class="row mb-5 align-items-center">
       <div class="col-lg-6 p-4">
         <h2 class="text-2xl mb-6 font-medium">
-        Join Hands with the Prominent Academic Assignment Writing Website to Get Help Countrywide
+          Buy Essay Assignments Online and Experience A Smooth Essay Service Across Ireland
         </h2>
         <p>
-        Struggling with academics is no less than a nightmare for students. But students deal with it for the sake of good grades. Therefore, we have the most convenient way out of that. Assignments Help Ireland is the most reliable service to help you with all your academic tasks in a way that will benefit you with your grades.
+          Getting consecutive essay assignments from your professors can be frustrating. But, you can get relief from such frustration real quick by connecting with us and saying, “I’m ready to pay for my assignment to get it done.” If you have made this decision and you are ready to get our help, we are also ready to help you get better in your essay writing assignments.
         </p>
         <br>
         <p>
-        Our academic writing center is not far from you in any way because we deliver our help to every corner of every street in Ireland. Thanks to our online platform, you can avail of our help in Dublin, Galway, Limerick, Waterford, Cork, Kilkenny, and all the other areas. You can leave your tasks to us with just a few clicks on our website and receive the complete version from us without any hassle. 
+          The procedure of buying our essay help is smooth and straightforward, as you only have to visit our site from Limerick, Cork, Galway, Dublin, or anywhere in Ireland. You will need to fill in the details in the form and make payment to confirm your order. Once the essay is done, you will receive it via email.
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Do my academic papers
+              Buy Irish Essay Writer
             </button>
           </a>
         </div>
@@ -315,21 +315,22 @@
       </div>
       <div class="col-lg-6 p-4 order-1 order-md-2">
         <h2 class="text-2xl mt-4 my-4 font-medium">
-        Trust Our Incredible Irish Academic Writing Expert Organisation for Instant Academic Assistance
+          Get Instant Help to Buy Essays and Garner Great Remarks from Your Professor for Timely Submission
+
         </h2>
         <p>
-        Submission of academic work on time is a real struggle because every student fears losing scores. Our services welcome you if you are ready to partner with a professional organization for your assignment help. We promise to take care of your academic work and complete it on time so you don’t miss your deadline.
+          Make it easy to get your desired scores in every assignment, especially in essays by submitting them on the given deadline. We offer you authentic essay help in which we strictly follow the timing of essay completion and delivery. When you enter your deadline in the form, we discuss it with you and set another time by which we deliver your work.
         </p>
         <br>
         <p>
-        Moreover, if your deadline is just around the corner and you haven’t started the assignment yet, we provide a solution for that as well. We have an urgent academic writing offer since our team has over 5000 qualified academic helpers who work on different shifts. We’ll ensure that your work is completed on time and save you from losing even a single score due to late submission.
+          In case your deadline is just around the corner and you have little to no time for its completion, we offer you our urgent essay writing service. With this urgent service, you can buy assignment even before your deadline and save yourself from losing scores. This special offer requires a few extra charges but works best for approaching deadlines.
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Write my academic paper in Ireland
+              Buy Essay Online in Ireland
             </button>
           </a>
         </div>
@@ -345,10 +346,10 @@
     <div class="row">
       <div class="col-md-12">
         <h3 class="text-center">
-        What Makes Assignments Help Ireland Worthwhile to Your Attention?
+          Buy Essay Online and Get Bonuses Alongside
         </h3>
         <p class="text-center">
-        Get a package full of perks with our academic writing services for an astounding experience with us.
+          Here’s what makes us the most reliable and expert essay help platform in Ireland:
       </div>
     </div>
     <div class="row">
@@ -843,30 +844,32 @@
     <div style="padding-left: 1rem;" class="row">
       <div class="row m-t-20">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Escalate Towards the Achievements with the Support of Our Professional Academic Paper Writers</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="py-3" >Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything.</p>
-          <p style="color: black;" class="py-3" >For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates.</p>
+          <h2 class="h6 fw-bold fs-4">Let the Experts Write Creative and Informative Essays to Help You Do Better Academically</h2>
+          <p style="color: black;" class="pt-4">Essay writing is not a smooth process, as it requires different steps. You either have to learn how to write the essay following each step or consult with an expert to complete it perfectly. Students usually find the first option time-consuming, and the smart decision is also to go for the latter. That’s why we are here if you call us and say, “Help me to buy essay online.”</p>
+          <p style="color: black;" class="py-3" >Assignments Help Ireland hires the best essay experts who have in-depth knowledge of writing different types of essays on various topics. They know many strategies to apply to different essays. They always start with a keen understanding of the topic through research and then mindmap what they have to write in the essay. </p>
+          <p style="color: black;" class="py-3" >With a compelling introduction, containing a catchy topic sentence, they give essays a perfect start. Whether it’s a Definition essay, Compare and Contrast essay, or Argumentative essay, they always deliver complete information in a way that keeps the audience engaged.</p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Get Perfect at Your Academic Performance by the Quality Work Delivered by Our Top-Notch Academic Helpers</h2>
-          <p style="color: black;" class="pt-4">Despite doing your best in your academic work and submitting it on time, you need some guidance to maintain quality if you do not get your desired scores. Our academic services are open for consultation and guidance, where you can complete your entire work on time. Our writers have been working in this field for more than 10 years, so they know how to write perfect academic work.</p>
-          <p style="color: black;" class="py-3">In fact, we have a strict procedure for writing each academic work, which includes in-depth research and understanding of the topic of your task. Our writers also have the best research skills to help them collect relevant data and use them as solid facts and examples with proper references where needed. </p>
-          <p style="color: black;" class="py-3">They invest time in reading to expose their mind to more points to write in the academic work. Once they are done writing your paper, assignment, report, or any other academic work, they proofread and edit it many times to ensure no errors. So, get help in any subject or task, including management, social sciences, or nursing assignment, and receive it in the highest quality. </p>
+          <h2 class="h6 fw-bold fs-4">Bring Your Academic Dreams into Reality by Buying Quality Essay Assignments</h2>
+          <p style="color: black;" class="pt-4">If you dream of making speedy academic progress, it’s time to focus on your essay writing. We understand that students are often overburdened with multiple academic tasks, which is why we are here to help. We always ensure that you receive the highest quality essay that follows all its requirements, from researching to mind mapping to writing it.</p>
+          <p style="color: black;" class="py-3">Every writer from our expert team collects authentic material from different sources that can be used as examples and evidence in the essays. They also add the references to make it as impactful to the readers as possible. This way they maintain the originality throughout their writing. </p>
+          <p style="color: black;" class="py-3">Moreover, we emphasise readability by keeping the sentences concise, using simple words, and delivering complete information. By proper formatting, we ensure that the essay can compel the readers in one go. So, all these reasons and more assure that you will have high-quality and 100% plagiarism-free essays to boost your academic grades.</p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4"> Safe &amp; Welcome Academic Excellence Through Customized Academic Papers Writing from Assignments Help Ireland</h2>
-          <p style="color: black;" class="pt-4">If you are tired of the poor grades and your professor’s disappointment, come to us and get all your academic problems resolved with our help. We offer a custom academic writing service through which you can get your academic tasks completed exactly like your professor appreciates.</p>
-          <p style="color: black;" class="py-3">Whether it's a Master’s, PhD, Bachelor’s, or CIPD assignment, you can hire the best academic writer to complete it as per your requirements. Our writers are experts in dealing with different academic tasks and completing them as per the instructions. Since they are remarkably trained and experienced, they know how to fulfil each instruction without ruining the quality.</p>
-          <p style="color: black;" class="py-3">Furthermore, no matter if your task needs to be completed from scratch or from the midway, our writers can take it towards perfection. They proofread it and make corrections to meet your needs. So, you don’t have to worry about your grades, as professional help is at your fingertips. You can even surprise your professors with your superb work through our services.</p>
+          <h2 class="h6 fw-bold fs-4">Buy the Cheapest Essay Writing Services to Earn Excellent Scores Within Your Budget
+          </h2>
+          <p style="color: black;" class="pt-4">Most students think that ordering quality essays from a professional writer or platform is expensive. It is not entirely true because Assignments Help Ireland is the most approachable and reputable platform in Ireland that provides quality work at lower rates than others. Since our focus is on quality and not on the rates, we always succeed in winning our clients’ trust.
+          </p>
+          <p style="color: black;" class="py-3">Apart from that, we never let the quality affect the prices in any way. No matter on which subject you want us to write your essay and which type of essay you order, you will experience a guaranteed reasonable and quality service. Our prices vary as per the word limit and complexity level of your essay, but we ensure that it comes within your budget.</p>
+          <p style="color: black;" class="py-3">With reasonability in our services, we also offer some unique free features, such as unlimited revisions, plagiarism reports, cover pages, citations, editing, and proofreading. So, enjoy these little perks of hiring our professional essay writers and get your essay done at a budget-friendly rate.</p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Accomplishments and Savings Side by Side with Our Affordable Academic Assignment Help</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="pt-4">Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything. </p>
-          <p style="color: black;" class="py-3">For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates. </p>
+          <h2 class="h6 fw-bold fs-4">Buy Affordable Essays Writers to Craft A Perfect Custom Essay that Attracts the Readers</h2>
+          <p style="color: black;" class="pt-4">Do you find your professor’s instructions about the essay confusing or difficult? You don’t need to be worried about it anymore because we also offer customisation of essays. You can send those instructions to us word by word and can even add yours if needed. We always follow them throughout the writing process so that you can also get recognition for doing a phenomenal job.</p>
+          <p style="color: black;" class="pt-4">No matter your field or academic level, we welcome all types of essay writing and ensure that we meet all your demands. Be it informative, persuasive, analytical, descriptive, expository, narrative, reflective, or any essay, our writers will personalise it, keeping a standard quality.</p>
+          <p style="color: black;" class="py-3">Proofreading and editing is another thing that our writers never forget in essay writing. They always invest time in proofreading the essays multiple times and edit them as many times as needed. In this way, they always come up with an errorless essay that never fails to grab the reader’s attention.</p>
         </div>
       </div>
       <div class="row">
@@ -1128,7 +1131,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-four.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">I am really amazed at their services. Assignments Help Ireland is the leading platform, and this is not the first time I have used their services, so I can assure you that this company is very professional and affordable. 
+              <p class="text-center mx-lg-5">This Buy Essay service is quite beneficial for all students in Ireland. I got my customised essay today, and it is exactly what I wanted. I would recommend this service to my mates as well.
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1180,7 +1183,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Laura Marquee</h4>
+              <h4>~ Chris</h4>
             </div>
           </div>
         </div>
@@ -1194,7 +1197,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-three.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">Assignments Help Ireland is the most reliable platform. It served thousands of students, including me. I am pleased with their quality work and timely delivery. Highly recommended!
+              <p class="text-center mx-lg-5">I’m relieved that all my pending essays are done now. My writer was extremely cooperative as they made all the adjustments I asked for in the essay. This service is a lifesaver.
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1246,7 +1249,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Henry James  </h4>
+              <h4>~ Florence </h4>
             </div>
           </div>
         </div>
@@ -1260,7 +1263,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-two.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">Assignments Help Ireland is an easy and affordable platform offering a variety of online assignment services with professionalism. I am amazed with the grades that I have obtained after using their services. It is a reliable platform, and I highly recommend it. 
+              <p class="text-center mx-lg-5">I ordered an essay just as a test, and it was delivered perfectly written and on time. This service couldn’t be more reliable, as they fulfil their promise and serve their clients nicely. 
 
               </p>
             </div>
@@ -1313,7 +1316,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Peter Phillips </h4>
+              <h4>~ Nina</h4>
             </div>
           </div>
         </div>
@@ -1327,7 +1330,7 @@
                 src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-one.jpg" alt="">
             </div>
             <div class="mt-2">
-              <p class="text-center mx-lg-5">One of the best platforms I have ever serviced. They offer highly affordable services with cheap prices, and the writers are very professional, highly educated, and experienced. They provided me with a solid piece of work. Thank you!
+              <p class="text-center mx-lg-5">Assignments Help Ireland helped me complete the most difficult essay, in which I was stuck for days. Wish I could order this service earlier. But gratefully, I got it completed on time and got the best scores in my batch.
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1379,7 +1382,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h6>~ Eric Porter</h6>
+              <h6>~ Adam</h6>
             </div>
           </div>
         </div>
@@ -1405,31 +1408,46 @@
           <div class="card mb-0 border-0">
             <div class="accortion-list">
               <div class="card-header mt-0 collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false">
-                <a class="card-title"> Can I get the best academic assignment help in Ireland?</a></div>
+                <a class="card-title">From which source can I buy the best Essay writing help in Ireland?</a></div>
               <div id="collapseOne" class="card-body collapse" data-parent="#accordion" style="">
-                <p>Yes! Assignments Help Ireland is the leading platform in Ireland that has been serving high-quality Irish students for over 10 years. You can fill out the form on our website and order our academic services. </p>
+                <p>You can reach out to Assignments Help Ireland, a leading platform in Ireland that has been serving students with their essays for over 10 years.</p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-                aria-expanded="false"> <a class="card-title">Can you write academic assignments for me in Ireland at reasonable charges?</a></div>
+                aria-expanded="false"> <a class="card-title">Is it legal to buy Essay writing help in Ireland?</a></div>
               <div id="collapseTwo" class="card-body collapse" data-parent="#accordion">
-                <p>Of course! Our rates are cheaper than other platforms offering academic services in Ireland. Our pride lies in delivering quality services at reasonable prices.</p>
+                <p>Yes, there is nothing wrong with getting help with your essay assignments if they are getting overburdened.</p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-                aria-expanded="false"> <a class="card-title">Do you guarantee originality if I buy academic papers from your platform?</a></div>
+                aria-expanded="false"> <a class="card-title">Can I buy my Essay writing quickly?</a></div>
               <div id="collapseThree" class="card-body collapse" data-parent="#accordion">
-                <p>Yes, maintaining originality in academic work is one of our main goals. Our writers always invest time in reading, understanding, and researching the topic before writing it to maintain originality. </p>
+                <p>Yes, we have an urgent essay offer, which you can get in case you need your essays done urgently. However, this offer has a few extra charges.</p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-                aria-expanded="false"> <a class="card-title">Do you have qualified writers who can write my academic assignment?</a></div>
-              <div id="collapseFour" class="collapse" data-parent="#accordion">
+                aria-expanded="false"> <a class="card-title">Is your Essay writing help accessible in all cities of Ireland?
+                </a></div>
+              <div id="collapseFour" class="card-body collapse" data-parent="#accordion">
+                <p>Yes, our services are accessible in every corner of the country.</p>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+                aria-expanded="false"> <a class="card-title">Through which procedure can I pay for my Essay writing help?</a></div>
+              <div id="collapseFive" class="card-body collapse" data-parent="#accordion">
+                <p>You can make transactions through any of our methods, including PayPal, Master Card, Visa, and others.</p>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+                aria-expanded="false"> <a class="card-title">Is your Essay Writing Help Ireland trustworthy?</a></div>
+              <div id="collapseSix" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <p>Yes, each writer in our team is qualified with Master's and PhD degrees in reputable fields. They all possess astounding knowledge and skills due to their vast work experience.  </p>
+                  <p>Yes, Assignments Help Ireland is the most authentic and certified platform in Ireland, guaranteeing quality work at reasonable rates.</p>
                 </div>
               </div>
             </div>
@@ -1460,14 +1478,14 @@
         <div class="cta-text col-xl-7 col-lg-6 col-md-12">
           <!-- heading -->
           <div>
-            <h3 class="text-white display-6 fw-bold pe-lg-8">Grade-Winning Academic Papers For Students Across Ireland
+            <h3 class="text-white display-6 fw-bold pe-lg-8">Distinctive Buy Essay Writing Services Here for Your Convenience
             </h3>
             <!-- text -->
             <p class="text-white mb-4 lead">
-              Rely on us to resolve your academic queries!
+              Buy essays from the best source anytime you want!
             </p>
             <!-- btn -->
-            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Order academic paper writing</a>
+            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Buy Essay Now!</a>
           </div>
         </div>
 

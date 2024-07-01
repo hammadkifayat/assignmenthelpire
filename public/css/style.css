@@ -48,6 +48,15 @@ h6,
   color: black;
 }
 
+.writers h5{
+  font-size: 16px;
+  font-weight: 600;
+}
+.writers span{
+  font-size: 16px;
+  font-weight: normal;
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -570,12 +579,16 @@ a:hover {
         }
   
       }
-  
+          /*  Mobile Media Query */
       @media (max-width: 767.98px) {
         .img-i {
           width: 30px;
           height: 40px;
         }
+        .sm-px-4 {
+          padding-right: 1.5rem !important;
+          padding-left: 1.5rem !important;
+      }
   
         .img-box-text {
           font-size: x-small;
@@ -893,7 +906,7 @@ a:hover {
       .team-box {
         border-radius: 7px;
         box-shadow: 0 0 10px rgba(0, 0, 0, .15);
-        height: 650px;
+        /* height: 650px; */
         padding: 20px;
         position: relative;
         width: 300px;
@@ -908,12 +921,12 @@ a:hover {
   
       }
     }
-  
+  /* Desktop  */
     @media (min-width: 1024px) {
       .team-box {
         border-radius: 7px;
         box-shadow: 0 0 10px rgba(0, 0, 0, .15);
-        height: 300px;
+        /* height: 300px; */
         padding: 20px;
         position: relative;
         width: 850px;
@@ -1023,7 +1036,8 @@ a:hover {
         border: 1px solid #192E48;
         box-shadow: 10px 4px 5px rgba(128, 128, 128, 0.37);
         margin-bottom: 20px;
-        position: relative
+        position: relative;
+        height: 130px;
       }
   
       .free-feature .feature-box.box1 {
@@ -1514,7 +1528,8 @@ a:hover {
         position: absolute !important;
         right: -8%;
         top: 38%;
-        width: 148px
+        width: 148px;
+        z-index:3 ;
       }
   
       .home-banner .box2 .grades {

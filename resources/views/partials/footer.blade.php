@@ -2,7 +2,7 @@
  <footer class="speedyui speedyui-footer">
     <div class="footer-top position-relative">
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center sm-px-4">
             <div class="col-lg-3 col-md-6 mb-3">
                 <a href="#" class="d-block align-items-center mb-4"><img src="images/Final white.png" class="img-fluid"
                     alt="" /></a>

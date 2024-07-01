@@ -1,6 +1,6 @@
 @extends('layouts.web')
-@section('title', ' Noteworthy Online Academic Writing Services Across Ireland')
-@section('description', ' Take a much-needed break from all kinds of academic work with the best academic writing services all over Ireland. Get your tasks done by our proficient writers.')
+@section('title', ' The Remarkable Quality Case Study Help Service in Ireland')
+@section('description', ' Let the success come your way to fruition by pursuing the top-notch case study help services by Assignments Help Ireland. Get help to enhance your grades to A+.')
 @section('canonical', config('app.url') . Request::path())
 @section('content')
 <section class="home-banner text-center text-lg-start">
@@ -9,8 +9,8 @@
       <div class="col-lg-4">
         <h1 style="font-size: 1.6rem; font-weight: bold;"
          class="text-uppercase font-weight-bold text-light mb-2">Distinctive 
-         -<span style="color: #192D48;">Academic Writing Services in Ireland Providing Best Academic Solutions</span></h1>
-        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Do your daily academic tasks add to your stress and keep you from peace of mind? Say no to your stress this time because we have a solution for you. Our affordable academic writing services will give you the break you have been craving for a long time. For over 10 years, we have helped more than 48,000 students with their academic work and earned their appreciation. </p>
+         -<span style="color: #192D48;">Acquire the Results of Your Dreams by Ordering Top Case Study Help </span></h1>
+        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Want to get hold of your excellent grades in your academic record? If yes, then choosing Assignments Help Ireland can be the most reliable option for you. Our platform has been working for more than 10 years and has helped more than 48K students with an overall success rate of 98%. We ensure that our case study writers are professional to provide you with the best case study help.  </p>
         <div class="banner-features d-none d-md-block" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
             <div class="col-md-6 p-1" bis_skin_checked="1">
@@ -112,7 +112,7 @@
               <div class="text-center m-t-10"><span class="c-text">The price is &nbsp;<span class="number">€
                     <span>10</span>&nbsp;<sub><del>€ <span>20</span></del></sub></span></span></div>
               <div class="text-sm-start"><button style="background-color: #0b2051; color: white;"
-                  class="btn btn-md d-block btn-dual-shade w-100">  Write my academic assignment</button>
+                  class="btn btn-md d-block btn-dual-shade w-100">   Order case study writing help!</button>
               </div>
             </form>
           </div>
@@ -140,7 +140,7 @@
               </svg></div>
             <div class="col-9"><span class="grades">A+ Grades</span><span class="t-text">Guranteed</span></div>
           </div>
-        </div><img src="images/Main Image.png" class="img-fluid dem lazyloaded" alt="Write My Assignment IE"
+        </div><img src="images/Service page image.webp" class="img-fluid dem lazyloaded" alt="Write My Assignment IE"
           title="Write My Assignment IE" loading="lazy" width="285" height="330"
           src="https://static.writemyassignment.ie/assets/frontend/images/simple/write-my-assignments.webp">
         <div class="box2">
@@ -236,9 +236,9 @@
 <section>
   <div style="background: #DBECFE;" class="container-fluid py-5 px-5">
     <div class="content-wrapper text-center">
-      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Make All the Academic Goals Achievable Through Our Academic Paper Writing Help</h2>
-      <p style="color: #182E47;" class="mb-4 font-weight-bold">Dreaming about achieving academic goals is what all students do, but turning that dream into reality is not always in their hands. We understand that not every student has the capacity to achieve academic success, so we offer our phenomenal academic services to give them a helping hand.</p>
-      <p style="color: #182E47;" class="mb-4">Our mission is not just to complete your academic work, but we also strive to capture excellent scores through it. Our assistance also lets students have some break from their consecutive assignments and tasks, in which they can meet their commitments. It means you can score better without even struggling with your academic work. That’s why we always pay attention to your “Do My Assignment” call.</p>
+      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Let the Quality Work Pay Off - The Top-Class Case Study Assignment Help </h2>
+      <p style="color: #182E47;" class="mb-4 font-weight-bold">If you are looking for quality work for your case study, our doors are open for you. Assignments Help Ireland always provides top-class quality work that meets all the criteria of students. This is because we have a team of experienced and professional writers. They are highly trained in writing engaging work by providing the perfect case study assignment help services. </p>
+      <p style="color: #182E47;" class="mb-4">Our end goal is to satisfy our clients with our work so our writers are responsible for working professionally. Also, our writers make sure that the work they are providing is abiding by the case study rules. So, whether you are a college or a university student, you will definitely meet your goals and achieve outstanding grades by following our case study writing guidance. </p>
 
       <p style="color: #182E47;">Our writers also specialize in researching, proofreading, formatting, and editing. Assignments Help Ireland has provided services to thousands of students and helped them achieve their desired grades. Therefore, once you order our services, we guarantee the best results with outstanding grades.</p>
     </div><!--.content-wrapper-->
@@ -274,7 +274,7 @@
         </div>
       </div>
     </div>
-    <span class="d-flex justify-content-center"> <a href="#" class="btn-new">Send Us Query Now</a>
+    <span class="d-flex justify-content-center"> <a href="#" class="btn-new">Buy case study writing services!</a>
   </div>
 
   </span>
@@ -286,21 +286,24 @@
     <div class="row mb-5 align-items-center">
       <div class="col-lg-6 p-4">
         <h2 class="text-2xl mb-6 font-medium">
-        Join Hands with the Prominent Academic Assignment Writing Website to Get Help Countrywide
+          Let your Career Shine - The Excellent Case Study Help Services
         </h2>
         <p>
-        Struggling with academics is no less than a nightmare for students. But students deal with it for the sake of good grades. Therefore, we have the most convenient way out of that. Assignments Help Ireland is the most reliable service to help you with all your academic tasks in a way that will benefit you with your grades.
+          Make your career outstanding by taking a step towards Assignments Help Ireland. This excellent platform is ready for you to cope with your thesis writing and the difficulties you are facing. 
         </p>
         <br>
         <p>
-        Our academic writing center is not far from you in any way because we deliver our help to every corner of every street in Ireland. Thanks to our online platform, you can avail of our help in Dublin, Galway, Limerick, Waterford, Cork, Kilkenny, and all the other areas. You can leave your tasks to us with just a few clicks on our website and receive the complete version from us without any hassle. 
+          Furthermore, our professional writers possess great expertise and knowledge in many fields and case study subjects that will meet your demands. Our team of professional case study makers ensures that they provide you with top-quality work that will let your grades transcend the limits. 
+        </p>
+        <p>
+          So, our platform offers reliable and trustworthy services, including fast delivery, deep subject analysis, proofreading, and writing attention-grabbing content. Our platform truly abides by the Irish university rules and policies. We are certain that we will provide you with first-rate material, free from copyright issues. 
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Do my academic papers
+              Get case study help today!
             </button>
           </a>
         </div>
@@ -315,21 +318,21 @@
       </div>
       <div class="col-lg-6 p-4 order-1 order-md-2">
         <h2 class="text-2xl mt-4 my-4 font-medium">
-        Trust Our Incredible Irish Academic Writing Expert Organisation for Instant Academic Assistance
+          Our Presence Beyond the Horizon - Online Case Study Help
         </h2>
         <p>
-        Submission of academic work on time is a real struggle because every student fears losing scores. Our services welcome you if you are ready to partner with a professional organization for your assignment help. We promise to take care of your academic work and complete it on time so you don’t miss your deadline.
+          The most reliable and easiest way to seek case study help for students is online. This helps the students work from a distance without any difficulties. Assignments Help Ireland is one of the platforms that is present beyond the horizon to help students complete their case studies. This unique service that we provide is flexible and easy. 
         </p>
         <br>
         <p>
-        Moreover, if your deadline is just around the corner and you haven’t started the assignment yet, we provide a solution for that as well. We have an urgent academic writing offer since our team has over 5000 qualified academic helpers who work on different shifts. We’ll ensure that your work is completed on time and save you from losing even a single score due to late submission.
+          Furthermore, you can easily provide us with the case study details and submit them to us online without any need to come onsite. Our writers will work on your case study and will deliver it to you via email to your email ID. If you need any changes in your assignment you can ask for additional revisions since we provide unlimited revisions. Our team is available to assist you 24/7 for any queries and guidance. 
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Write my academic paper in Ireland
+              Get case study help today!
             </button>
           </a>
         </div>
@@ -345,10 +348,8 @@
     <div class="row">
       <div class="col-md-12">
         <h3 class="text-center">
-        What Makes Assignments Help Ireland Worthwhile to Your Attention?
+          Why Choose Case Study Help Services?
         </h3>
-        <p class="text-center">
-        Get a package full of perks with our academic writing services for an astounding experience with us.
       </div>
     </div>
     <div class="row">
@@ -361,9 +362,9 @@
                   <img src="images/__Low price.png" alt="Quality img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Affordable Assignment Help Services</h4>
+                  <h4 class="qualtiy-box-title">Low-priced assignment solutions</h4>
                   <p class="wrapper-text">
-                  We assure you that our services are highly affordable for students with various financial standards. Our services are cheap yet professional for everyone. 
+                    Assignments Help Ireland is keen to provide students with affordable case study help services regardless of their financial background. We ensure that the services we are offering meet every student’s budget.
 
 
                   </p>
@@ -376,9 +377,9 @@
                   <img src="images/__Experienced Writers.png" alt="writer img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Professional Assignment Writers Help</h4>
+                  <h4 class="qualtiy-box-title">Timely delivery</h4>
                   <p class="wrapper-text">
-                  We have a team of writers with professional experience to ensure you will receive quality work without exception. So, you don’t need to worry about your tasks since our writers are here for you.
+                    We embrace timely delivery, so we ensure that our clients receive their work from us before the deadline.
 
 
                   </p>
@@ -392,9 +393,9 @@
                   <img src="images/__Timely Delivery.png" alt="deadline img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Fast Delivery</h4>
+                  <h4 class="qualtiy-box-title">24/7 Dedicated customer support </h4>
                   <p class="wrapper-text">
-                  We believe that time is important for everyone. Since we offer fast delivery, we will always provide you with your completed task before the deadline with quality. 
+                    We offer 24/7 support to all students so that if they need any help or have any queries they can ask us freely. 
                   </p>
                 </div>
 
@@ -406,9 +407,9 @@
                   <img src="images/100-Plag free.png" alt="source img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">100% Plagiarism-Free Content</h4>
+                  <h4 class="qualtiy-box-title">Assistance from experienced writers </h4>
                   <p class="wrapper-text">
-                  Our team of writers always provides original, 100% plagiarism-free content without copyright issues. We also assure you of the best work. 
+                    We have a team of excellent writers who are qualified with the highest degree levels so we can ensure that we will provide you with the best quality case study work to reach your specific demands. 
 
                   </p>
                 </div>
@@ -421,9 +422,9 @@
                   <img src="images/__24-7 customer support.png" alt="support img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">24-hour Customer Support </h4>
+                  <h4 class="qualtiy-box-title">100% Plagiarism free assignment</h4>
                   <p class="wrapper-text">
-                  We provide our clients with 24-hour support, so you can freely contact us at any time with any queries or doubts. 
+                    Our professional case study writers ensure that they provide original content free from plagiarism. They always proofread the assignments and check them through reliable tools such as Turnitin before delivering to ensure that the work done is 100% unique. 
                   </p>
                 </div>
 
@@ -435,9 +436,9 @@
                   <img src="images/__Free samples.png" alt="hidden img">
                 </div>
                 <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Free Work Examples</h4>
+                  <h4 class="qualtiy-box-title">Free assignment samples</h4>
                   <p class="wrapper-text">
-                  We also offer our free work examples to clients to give them an idea of our quality work, and they will deliver it to them. <a href="#"></a></p>
+                    We truly value students’ satisfaction so we provide our work samples to let them get an idea of our work that they will receive. </p>
                 </div>
 
               </div>
@@ -843,30 +844,29 @@
     <div style="padding-left: 1rem;" class="row">
       <div class="row m-t-20">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Escalate Towards the Achievements with the Support of Our Professional Academic Paper Writers</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="py-3" >Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything.</p>
-          <p style="color: black;" class="py-3" >For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates.</p>
+          <h2 class="h6 fw-bold fs-4">Make the Remarkable Growth In Your Grades by Choosing Our Case Study Services </h2>
+          <p style="color: black;" class="pt-4">Stand out at the top level of your grades by choosing the well-known case study help services from Assignments Help Ireland. We have hired expert case study writers to guide you with your case study in the perfect way and complete it professionally. Our writers ensure that they will provide you with the best case study help to help you make remarkable growth in your grades. </p>
+          <p style="color: black;" class="py-3" >Our writers are experts in case study assignments, so they know how to do them proficiently. Moreover, our expert team of writers will provide you with case study help using professional strategies. These include eye-catching headings, explaining objects and purposes, adding relevant quotes, and much more. Using these smart tactics will help you reach your grades at the top of the result paper. </p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Get Perfect at Your Academic Performance by the Quality Work Delivered by Our Top-Notch Academic Helpers</h2>
-          <p style="color: black;" class="pt-4">Despite doing your best in your academic work and submitting it on time, you need some guidance to maintain quality if you do not get your desired scores. Our academic services are open for consultation and guidance, where you can complete your entire work on time. Our writers have been working in this field for more than 10 years, so they know how to write perfect academic work.</p>
-          <p style="color: black;" class="py-3">In fact, we have a strict procedure for writing each academic work, which includes in-depth research and understanding of the topic of your task. Our writers also have the best research skills to help them collect relevant data and use them as solid facts and examples with proper references where needed. </p>
-          <p style="color: black;" class="py-3">They invest time in reading to expose their mind to more points to write in the academic work. Once they are done writing your paper, assignment, report, or any other academic work, they proofread and edit it many times to ensure no errors. So, get help in any subject or task, including management, social sciences, or nursing assignment, and receive it in the highest quality. </p>
+          <h2 class="h6 fw-bold fs-4">Making the Quality Work Flawless - Professional Case Study Homework Help</h2>
+          <p style="color: black;" class="pt-4">Assignments Help Ireland is fully committed to providing quality work without any flaws. Our expert case studies writers ensure that they provide the best quality work to bring out outstanding grades in your academic results. They are highly qualified in case studies and write content relevant to the topic. </p>
+          <p style="color: black;" class="py-3">Additionally, many students from different Irish universities highly admire their expert-quality work. Their case study work is proven to bring better academic results. Many students used their services and stood at the top positions. Therefore, our quality work is highly recommended across Ireland in many different cities, including Dublin, Waterford, Cork, etc. </p>
+          <p style="color: black;" class="py-3">If you also want quality work to overflow into success in your career, you must choose our services and get quality case study assignment help. Don’t waste your time completing poor-quality assignments; get in touch with our professionals today. </p>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4"> Safe &amp; Welcome Academic Excellence Through Customized Academic Papers Writing from Assignments Help Ireland</h2>
-          <p style="color: black;" class="pt-4">If you are tired of the poor grades and your professor’s disappointment, come to us and get all your academic problems resolved with our help. We offer a custom academic writing service through which you can get your academic tasks completed exactly like your professor appreciates.</p>
-          <p style="color: black;" class="py-3">Whether it's a Master’s, PhD, Bachelor’s, or CIPD assignment, you can hire the best academic writer to complete it as per your requirements. Our writers are experts in dealing with different academic tasks and completing them as per the instructions. Since they are remarkably trained and experienced, they know how to fulfil each instruction without ruining the quality.</p>
-          <p style="color: black;" class="py-3">Furthermore, no matter if your task needs to be completed from scratch or from the midway, our writers can take it towards perfection. They proofread it and make corrections to meet your needs. So, you don’t have to worry about your grades, as professional help is at your fingertips. You can even surprise your professors with your superb work through our services.</p>
+          <h2 class="h6 fw-bold fs-4">Make a Significant Move to Thrill Your Teacher with Our Top-notch Services </h2>
+          <p style="color: black;" class="pt-4">Are you looking to add something more to your case study assignment? For that, we are here to make your case study a genuine piece. Regardless of your academic level, our team of writers makes your case study unique and will thrill your teacher. They provide the best case study writing help for Irish students. Our writers are highly skilled in crafting a solid piece of content. </p>
+          <p style="color: black;" class="py-3">Whether you need to complete a case study on political subjects, medicine, physics, computer, media, or any other subject. In addition, our writers have excellent English language skills that make your case study coursework reliable and engaging. These qualified writers are highly trained and regularly hone their skills for potential writing quality. </p>
+          <p style="color: black;" class="py-3">Many students say that their teachers are greatly inspired by the case study assignments that our writers crafted for them. So, there is not a shred of doubt that writers provide students with professional case study work to meet their criteria.</p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Accomplishments and Savings Side by Side with Our Affordable Academic Assignment Help</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="pt-4">Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything. </p>
-          <p style="color: black;" class="py-3">For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates. </p>
+          <h2 class="h6 fw-bold fs-4">Secure Your Budget by Choosing Our Cheap Case Study Help Services</h2>
+          <p style="color: black;" class="pt-4">Nobody wants to make high expenses for small services since most of the students are unable to pay high amounts. Assignments Help Ireland is one of the most popular platforms that offers the cheapest case study writing guidance service for all students. Our team charges a minimum amount for each service it provides. This includes proofreading, plagiarism checking, revisions, etc.</p>
+          <p style="color: black;" class="pt-4">Our writers highly respect and value every student's financial status, so they ensure that they offer the cheapest services for them. You just need to fill out our form to place your order, and then you are done. We won’t charge any additional fees after you place your order. Even with low charges, our quality work remains professional and high because we focus more on quality.</p>
+          <p style="color: black;" class="py-3">Our platform is highly cooperative and helpful for students. We want students to succeed in their exams, so we offer the cheapest case study writing services so that every student can afford them.  </p>
         </div>
       </div>
       <div class="row">
@@ -1405,34 +1405,53 @@
           <div class="card mb-0 border-0">
             <div class="accortion-list">
               <div class="card-header mt-0 collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false">
-                <a class="card-title"> Can I get the best academic assignment help in Ireland?</a></div>
+                <a class="card-title"> Is there an easy way to solve a case study?</a></div>
               <div id="collapseOne" class="card-body collapse" data-parent="#accordion" style="">
-                <p>Yes! Assignments Help Ireland is the leading platform in Ireland that has been serving high-quality Irish students for over 10 years. You can fill out the form on our website and order our academic services. </p>
+                <p>A case study requires a deep analysis and investigation. The easy way to solve a case study is to provide the most supportive and proven work evidence.  </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-                aria-expanded="false"> <a class="card-title">Can you write academic assignments for me in Ireland at reasonable charges?</a></div>
+                aria-expanded="false"> <a class="card-title">Can I get a free case study?</a></div>
               <div id="collapseTwo" class="card-body collapse" data-parent="#accordion">
-                <p>Of course! Our rates are cheaper than other platforms offering academic services in Ireland. Our pride lies in delivering quality services at reasonable prices.</p>
+                <p>Yes, you can search the internet and visit some websites providing free case study samples. </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-                aria-expanded="false"> <a class="card-title">Do you guarantee originality if I buy academic papers from your platform?</a></div>
+                aria-expanded="false"> <a class="card-title">Are there any disadvantages of case studies?</a></div>
               <div id="collapseThree" class="card-body collapse" data-parent="#accordion">
-                <p>Yes, maintaining originality in academic work is one of our main goals. Our writers always invest time in reading, understanding, and researching the topic before writing it to maintain originality. </p>
+                <p>Case students have several disadvantages including difficulty in making a copy, time-consuming, and expensive.  </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-                aria-expanded="false"> <a class="card-title">Do you have qualified writers who can write my academic assignment?</a></div>
+                aria-expanded="false"> <a class="card-title">Can I Pay Someone to Write My Case Study?</a></div>
               <div id="collapseFour" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <p>Yes, each writer in our team is qualified with Master's and PhD degrees in reputable fields. They all possess astounding knowledge and skills due to their vast work experience.  </p>
+                  <p>Yes, you can definitely pay someone to write your case study or hire professional case study writers at an affordable cost.   </p>
                 </div>
               </div>
             </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+                aria-expanded="false"> <a class="card-title">Where can I find professional assistance for my case study?</a></div>
+              <div id="collapseFour" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>There are many online platforms that offer professional assistance for case study, so you can find them on the internet.  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+                aria-expanded="false"> <a class="card-title">Helpful Strategies for Writing Case Study?</a></div>
+              <div id="collapseFour" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>There are many helpful strategies for writing case studies including formatting, quotation analysis, introduction, call to action, etc.  </p>
+                </div>
+              </div>
+            </div>
+            
            
           </div>
         </div>
@@ -1460,14 +1479,14 @@
         <div class="cta-text col-xl-7 col-lg-6 col-md-12">
           <!-- heading -->
           <div>
-            <h3 class="text-white display-6 fw-bold pe-lg-8">Grade-Winning Academic Papers For Students Across Ireland
+            <h3 class="text-white display-6 fw-bold pe-lg-8">Bring Huge Perfection in Your Results - The Best Case Study Help Services 
             </h3>
             <!-- text -->
             <p class="text-white mb-4 lead">
-              Rely on us to resolve your academic queries!
+              Hire our top case study writers and bring your results to the top.
             </p>
             <!-- btn -->
-            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Order academic paper writing</a>
+            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Order case study help online!</a>
           </div>
         </div>
 

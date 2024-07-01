@@ -2,11 +2,14 @@
 <html lang="en">
 
 <head>
+    
   <title>@yield('title')</title>
   <meta name="description" content="@yield('description')"/>
   {{-- Canonical --}}
   <link rel="canonical" href="@yield('canonical', '')"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
   <!-- Required meta tags -->
   <meta name="Description" content=" Professional Assignment Help Ireland By Our Experts">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
@@ -17,6 +20,8 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <!-- Style -->
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+
   <link rel="stylesheet" href="css/style.css">
   
 

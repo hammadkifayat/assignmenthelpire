@@ -5,7 +5,7 @@
 @section('content')
 <section class="home-banner text-center text-lg-start">
   <div class="container">
-    <div class="row align-items-center">
+    <div class="row align-items-center sm-px-4">
       <div class="col-lg-4">
         <h4 style="font-size: 1.6rem; font-weight: bold;"
          class="text-uppercase font-weight-bold text-light mb-2">Best Assignment Help Ireland Services
@@ -222,16 +222,17 @@
         <img class="img-fluid border-hover border-dark  rounded-hover"
           src="https://www.assignmentshelp.ae/imgs/uni/at9-80x80.png" alt="asg">
       </div>
-      <div class="col-6 col-md-1">
-        <img class="d-none d-md-block img-fluid border-hover rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at10-80x80.png" alt="asg">
-      </div>
+      
       <div class="col-6 col-md-1">
       </div>
     </div>
   </div>
 
 </section>
+
+{{-- <div class="row "> --}}
+  {{-- <img class="" src="{{ asset('images/Separator.svg')}}" alt="asg">
+</div> --}}
 
 <!--====================== Start Content Section ======================-->
 <section>
@@ -246,12 +247,16 @@
 </section>
 <!--====================== End Content Section ======================-->
 
+{{-- <div class="row mt-8 hide-on-mobile">
+  <img class="" src="{{ asset('images/Separator.svg')}}" alt="asg">
+</div> --}}
+
 <section class="section50 py-5" id="how-ireland-works">
   <div class="container">
     <div class="heading">
       <h2 class="heading-title text-center mb-5"> Assignments Help Ireland Procedure </h2>
     </div>
-    <div class="row pb-3">
+    <div class="row pb-3 sm-px-4">
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="box bg-white border shadow">
           <li class="icon"> <i aria-hidden="true" class="fa fa-file-text-o"></i></li>
@@ -283,7 +288,7 @@
 <!-- 14th section custom essay writing -->
 <section class="overflow-hidden my-4 py-4">
   <div class=" container px-3">
-    <div class="row mb-5 align-items-center">
+    <div class="row mb-5 align-items-center sm-px-4">
       <div class="col-lg-6 p-4">
         <h2 class="text-2xl mb-6 font-medium">
         Our Collaboration with Best Assignment Writers to Get Your Tasks Done with Perfection
@@ -309,7 +314,7 @@
         <img src="images/01.jpg" width="100%" alt="asg" class="img-fluid">
       </div>
     </div>
-    <div class="row align-items-center">
+    <div class="row align-items-center sm-px-4">
       <div class="text-center col-lg-6 p-3 order-2 order-md-1">
         <img src="images/02.jpg" width="100%" alt="asg" class="img-fluid">
       </div>
@@ -342,7 +347,7 @@
 
 <section class="container-lg incentives benefits" id="benefits">
   <div class="container-lg img-boxes">
-    <div class="row">
+    <div class="row sm-px-4">
       <div class="col-md-12">
         <h3 class="text-center">
         Why Choose Assignments Help Ireland?
@@ -355,9 +360,9 @@
     <div class="row">
       <div class="col-md-12 exlore_benefits type_benefits">
         <div class="quality-boxes">
-          <div class="row">
+          <div class="row sm-px-4">
             <div class="col-md-6 mb-3">
-              <div class="wrapperz">
+              <div class="wrapperz pb-4">
                 <div class="box">
                   <img src="images/__Low price.png" alt="Quality img">
                 </div>
@@ -372,7 +377,7 @@
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class=" wrapperz">
+              <div class=" wrapperz pb-4">
                 <div class="box">
                   <img src="images/__Experienced Writers.png" alt="writer img">
                 </div>
@@ -388,7 +393,7 @@
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class="wrapperz">
+              <div class="wrapperz pb-4">
                 <div class="box">
                   <img src="images/__Timely Delivery.png" alt="deadline img">
                 </div>
@@ -402,7 +407,7 @@
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class="wrapperz">
+              <div class="wrapperz pb-4">
                 <div class="box">
                   <img src="images/100-Plag free.png" alt="source img">
                 </div>
@@ -417,7 +422,7 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="wrapperz">
+              <div class="wrapperz pb-4">
                 <div class="box">
                   <img src="images/__24-7 customer support.png" alt="support img">
                 </div>
@@ -431,7 +436,7 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="wrapperz">
+              <div class="wrapperz pb-4">
                 <div class="box">
                   <img src="images/__Free samples.png" alt="hidden img">
                 </div>
@@ -450,7 +455,7 @@
   </div>
 </section>
 
-<section class=" py-5 free-feature">
+<section class=" py-5 free-feature sm-px-4">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -494,11 +499,11 @@
   </div>
 </section>
 
-<section>
+<section class="writers">
   <div class="position-relative px-0 pb-5">
     <div style="padding-left: 2rem; padding-right: 2rem;" class="container mx-auto">
-      <h3 style="color: #5A5959;" class="text-center mt-5">Meet Our
-        <span class="text-[#EF443B]">  Best Assignment Writers Online 
+      <h3 style="color: #5A5959;" class="text-center mt-5">Meet Our Best Assignment Writers Online 
+        <span class="text-[#EF443B]"> 
         </span>
       </h3>
 
@@ -509,7 +514,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Mark Lee" title="Mark Lee"
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -517,7 +522,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><h4 class="h5 mb-0">Mark Lee</h4>
+                      <div class="col-md-6 "><h4 class="h5 mb-0">Mark Lee</h4>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -573,18 +578,17 @@
 
                         </div>
                         <div class="row g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;" class="">PhD Degree</h5>
+                          <div class="col-md-6"><h5  class="">PhD Degree</h5>
                           </div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 18,752<h5
+                          <div class="col-md-6"><h5>18,752 <span
                                 style="font-weight: normal">Orders
-                                </span></span></div>
+                                </span></h5></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 14,925 <h5
-                                style="font-weight: normal;"> Reviews
-                                </span></span></div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 98% <span
-                                style="font-weight: normal;">Success Rate</span></span>
+                          <div class="col-md-6"><h5> 14,925 <span> Reviews
+                                </span></h5></div>
+                          <div class="col-md-6"><h5> 98% <span
+                                style="font-weight: normal;">Success Rate</span></h5>
                           </div>
                         </div>
 
@@ -596,7 +600,12 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Mark Lee has offered professional services for over five years with a 5-star rating and a 98% success rate and has completed 8000 orders in Assignment Help Ireland. He is qualified with a PhD and specializes in many different modes of writing, including case studies, reports, essays, and more. His written documents always help students achieve better grades across Ireland. "</p>
+                          <p>
+                            Mark Lee has offered professional services for over five years with a 5-star rating and a 98% success 
+                            rate and has completed 8000 orders in Assignment Help Ireland. He is qualified with a PhD and specializes 
+                            in many different modes of writing, including case studies, reports, essays, and more. His written documents 
+                            always help students achieve better grades across Ireland.                           
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -615,7 +624,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-three.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-three.svg" alt="Jack Martin " title="Jack Martin "
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -623,7 +632,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><h4 class="h5 mb-0">Jack Martin</h4>
+                      <div class="col-md-6"><h4 class="h5 mb-0">Jack Martin </h4>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -681,7 +690,7 @@
                         <div class="row g-0">
                           <div class="col-md-6"><h5 style="font-weight: 600;" class="">Master’s Degree</h5>
                           </div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 8,215 Orders  <span
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 8,215  Orders  <span
                                 style="font-weight: normal">Orders
                                  </span></h5></div>
                         </div>
@@ -702,7 +711,12 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Jack Martin, with 10 years of experience in Assignments Help Ireland, completed more than 8000 orders with a 4.9/5 rating and received 7,000 reviews. He helped thousands of students across Ireland with his professional writing services. He is qualified with a master's in English and outstanding grades. The studying company appreciated him for his quality services, as his success rate is 99%."</p>
+                          <p>
+                            Jack Martin, with 10 years of experience in Assignments Help Ireland, completed more than 8000 orders 
+                            with a 4.9/5 rating and received 7,000 reviews. He helped thousands of students across Ireland with his 
+                            professional writing services. He is qualified with a master's in English and outstanding grades. The 
+                            studying company appreciated him for his quality services, as his success rate is 99%.                          
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -721,7 +735,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-two.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-two.svg" alt="Cathy Goodman " title="Cathy Goodman "
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -729,7 +743,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><span class="h5 mb-0">Joshua</span>
+                      <div class="col-md-6"><span class="h5 mb-0">Cathy Goodman </span>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -785,18 +799,18 @@
 
                         </div>
                         <div class="row g-0">
-                          <div class="col-md-6"><span style="font-weight: 600;" class="">PhD</span>
+                          <div class="col-md-6"><span style="font-weight: 600;" class="">MPhil Degree</span>
                           </div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 2855 <span
-                                style="font-weight: normal">Assignments
-                                Written</span></span></div>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 10,012 <span
+                                style="font-weight: normal">Orders
+                                </span></span></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><span style="font-weight: 600;"> 96% <span
-                                style="font-weight: normal;">Client
-                                Retention</span></span></div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 300+ <span
-                                style="font-weight: normal;">Reviews</span></span>
+                          <div class="col-md-6"><span style="font-weight: 600;">9,565 <span
+                                style="font-weight: normal;">Reviews
+                                </span></span></div>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 99%  <span
+                                style="font-weight: normal;">Success Rate</span></span>
                           </div>
                         </div>
 
@@ -808,12 +822,125 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Hello students. Meet Joshua, the most consistent
-                            performer of our team. If you are wondering who
-                            can write my assignment in Dublin, this is the
-                            guy that you can surely trust. He will not let
-                            you down and will pick up your grades with an
-                            exceptional assignment."</p>
+                          <p>
+                            Cathy is one of our brilliant writers who has completed 10,000 orders with her amazingly high-quality 
+                            content and received nearly 9,500 reviews. She is qualified with an MPhil and has helped several students 
+                            with various tasks with quality work and timely delivery. Students across Ireland, including Dublin, greatly 
+                            honour her professional services due to her 5-star rating and 99% success rate.  
+                          </p>
+                        </div>
+                        <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
+                            style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
+                            Paper </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div style="display: block;" class="mySlides">
+            <div class="professional-box">
+              <div class="row align-items-center g-0">
+                <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Tiffany James  " title="Tiffany James  "
+                    loading="lazy" width="250" height="180">
+                </div>
+                <div class="col-lg-9">
+
+
+                  <div class="team-box">
+                    <div class="row">
+                      <div class="col-md-6"><h4 class="h5 mb-0">Tiffany James  </h4>
+                        <div class="d-flex">
+                          <div class="e-text">
+                            4.9 Rating
+                          </div>
+                          <ul style="list-style: none; padding-left: 0rem;"
+                            class="d-flex justify-content-center align-content-center">
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                          </ul>
+
+                        </div>
+                        <div class="row g-0">
+                          <div class="col-md-6"><h5 style="font-weight: 600;" class="">PhD Degree</h5>
+                          </div>
+                          <div class="col-md-6"><h5 style="font-weight: 600;">18,263  <span
+                                style="font-weight: normal">Orders
+                                </span></h5></div>
+                        </div>
+                        <div class="row mt-3 g-0">
+                          <div class="col-md-6"><h5 style="font-weight: 600;">16,113  <span
+                                style="font-weight: normal;"> Reviews
+                                </span></h5></div>
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 98% <span
+                                style="font-weight: normal;">Success Rate</span></h5>
+                          </div>
+                        </div>
+
+                        <ul style="padding-left: 0rem;" class="topics-covered m-t-30">
+                          <li class="list-inline-item">Reflective Writing</li>
+                          <li class="list-inline-item">Content Expert</li>
+                          <li class="list-inline-item">Blog Writer</li>
+                        </ul>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="px-3 py-3 paragraph-box">
+                          <p>
+                            Tiffany has been working at Assignments Help Ireland for 5 years and providing incredible content 
+                            that has won the hearts of several students. Her excellent writing skills have helped many students 
+                            achieve good grades and succeed in their university exams. She is qualified with PhD in Journalism 
+                            and has a success rate of 98%. She has completed more than 2000 orders with her professional skills, 
+                            has a 4.9/5 star rating, 1500 reviews, and is highly honored worldwide. 
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -830,9 +957,10 @@
           </div>
         </div>
         <div style="text-align:center" class="pt-4">
-          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot activeOne" onclick="currentSlide(1)"></span>
           <span class="dot" onclick="currentSlide(2)"></span>
           <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span>
         </div>
       </div>
     </div>
@@ -840,7 +968,7 @@
 </section>
 
 <section style="background-color: #DBECFE; padding: 80px 0px 80px 0px;" class="content bg-content">
-  <div class="container">
+  <div class="container sm-px-4">
     <div style="padding-left: 1rem;" class="row">
       <div class="row m-t-20">
         <div class="col-md-6">
@@ -1376,7 +1504,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h6>~ Eric Porter</h6>
+              <h4>~ Eric Porter</h4>
             </div>
           </div>
         </div>
@@ -1384,7 +1512,7 @@
       <div class="text-center mt-2 pb-5">
         <span class="dotTwo" onclick="currentSlideTwo(1)"></span>
         <span class="dotTwo" onclick="currentSlideTwo(2)"></span>
-        <span class="dotTwo activeOne" onclick="currentSlideTwo(3)"></span>
+        <span class="dotTwo " onclick="currentSlideTwo(3)"></span>
         <span class="dotTwo" onclick="currentSlideTwo(4)"></span>
       </div>
     </div>
@@ -1400,6 +1528,7 @@
         <div id="accordion" style="padding: 30px;" class="ireland-students-faq assignment">
           <h3 class="py-3" style="color: #192E47; text-align: left;">Frequently Asked Questions</h3>
           <div class="card mb-0 border-0">
+
             <div class="accortion-list">
               <div class="card-header mt-0 collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false">
                 <a class="card-title"> Why to hire Writers from Ireland Assignment Help
@@ -1416,43 +1545,43 @@
               </div>
             </div>
             <div class="accortion-list">
-              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
                 aria-expanded="false"> <a class="card-title"> Do you maintain privacy?</a></div>
-              <div id="collapseTwo" class="card-body collapse" data-parent="#accordion">
+              <div id="collapseThree" class="card-body collapse" data-parent="#accordion">
                 <p>Yes, we provide complete privacy so that students do not face any issues.  </p>
               </div>
             </div>
             <div class="accortion-list">
-              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
                 aria-expanded="false"> <a class="card-title"> Do you follow all Ireland University guidelines?</a></div>
-              <div id="collapseThree" class="collapse" data-parent="#accordion">
+              <div id="collapseFour" class="collapse" data-parent="#accordion">
                 <div class="card-body">
                   <p>Yes, we make sure that we follow the guidelines of all Ireland universities and provide the students with the assignment work and per their requirements. </p>
                 </div>
               </div>
             </div>
             <div class="accortion-list">
-              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
                 aria-expanded="false"> <a class="card-title"> Do you offer revisions?</a></div>
-              <div id="collapseFour" class="collapse" data-parent="#accordion">
+              <div id="collapseFive" class="collapse" data-parent="#accordion">
                 <div class="card-body">
                   <p>We offer free unlimited revisions for students as per their ease.</p>
                 </div>
               </div>
             </div>
             <div class="accortion-list">
-              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
                 aria-expanded="false"> <a class="card-title">How much time will you need to finish my assignment?</a></div>
-              <div id="collapseFive" class="collapse" data-parent="#accordion">
+              <div id="collapseSix" class="collapse" data-parent="#accordion">
                 <div class="card-body">
                   <p>It takes us a few hours to several days or a few weeks to complete an assignment. However, we do our best to deliver it as early as possible. </p>
                 </div>
               </div>
             </div>
             <div class="accortion-list">
-              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"
                 aria-expanded="false"> <a class="card-title">Do you provide assignment help for any topic?</a></div>
-              <div id="collapseSix" class="collapse" data-parent="#accordion" style="">
+              <div id="collapseSeven" class="collapse" data-parent="#accordion" style="">
                 <div class="card-body">
                   <p>Yes, we provide students with online assignment help regardless of the topic. </p>
                 </div>
