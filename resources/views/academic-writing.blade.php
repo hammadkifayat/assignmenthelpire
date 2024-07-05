@@ -1,20 +1,23 @@
 @extends('layouts.web')
-@section('title', ' Noteworthy Online Academic Writing Services Across Ireland')
-@section('description', ' Take a much-needed break from all kinds of academic work with the best academic writing services all over Ireland. Get your tasks done by our proficient writers.')
+@section('title', 'Noteworthy Online Academic Writing Services Across Ireland')
+@section('description', ' Take a much-needed break from all kinds of academic work with the best academic writing services all over Ireland. Get your tasks done by our proficient writers. ')
 @section('canonical', config('app.url') . Request::path())
 @section('content')
 <section class="home-banner text-center text-lg-start">
-  <div class="container">
-    <div class="row align-items-center">
+  <div class="container px-0">
+    <div class="row align-items-center sm-px-4">
       <div class="col-lg-4">
-        <h1 style="font-size: 1.6rem; font-weight: bold;"
+        <h4 style="font-size: 1.6rem; font-weight: bold;"
          class="text-uppercase font-weight-bold text-light mb-2">Distinctive 
-         -<span style="color: #192D48;">Academic Writing Services in Ireland Providing Best Academic Solutions</span></h1>
-        <p class="text-dark font-weight-bold mb-2 font-weight-normal">Do your daily academic tasks add to your stress and keep you from peace of mind? Say no to your stress this time because we have a solution for you. Our affordable academic writing services will give you the break you have been craving for a long time. For over 10 years, we have helped more than 48,000 students with their academic work and earned their appreciation. </p>
+         -<span style="color: #192D48;">
+          Academic Writing Services in Ireland Providing Best Academic Solutions
+          </span> </h4>
+        <p class="text-dark font-weight-bold mb-2">
+          Do your daily academic tasks add to your stress and keep you from peace of mind? Say no to your stress this time because we have a solution for you. Our affordable academic writing services will give you the break you have been craving for a long time. For over 10 years, we have helped more than 48,000 students with their academic work and earned their appreciation.       
         <div class="banner-features d-none d-md-block" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
             <div class="col-md-6 p-1" bis_skin_checked="1">
-                <div class="feature align-items-center bg-green shadow" bis_skin_checked="1">
+                <div class="feature align-items-center  shadow" bis_skin_checked="1">
                     <div class="img-box img-box-1" bis_skin_checked="1"></div>
                     <div class="feature-text text-white" bis_skin_checked="1">
                         <h5 class="f-title">Rated 4.9/5</h5>
@@ -176,124 +179,64 @@
 </section>
 
 <section>
-  <div class="text-center">
-    <h3 class="text-[#EF443B] text-3xl mt-5 font-bold">Honored by the Students of: </h3>
-  </div>
-  <div class="my-4 mt-4">
-    <div class="row align-items-center text-center mx-auto">
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover rounded-hover d-sm-block d-md-none"
-          src="https://www.assignmentshelp.ae/imgs/uni/at1-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at1-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at2-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at3-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at4-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at5-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at6-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at7-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at8-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at9-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="d-none d-md-block img-fluid border-hover rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at10-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-      </div>
-    </div>
-  </div>
+ @include('partials.honoured')
 
 </section>
+
+
 
 <!--====================== Start Content Section ======================-->
 <section>
   <div style="background: #DBECFE;" class="container-fluid py-5 px-5">
-    <div class="content-wrapper text-center">
-      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Make All the Academic Goals Achievable Through Our Academic Paper Writing Help</h2>
-      <p style="color: #182E47;" class="mb-4 font-weight-bold">Dreaming about achieving academic goals is what all students do, but turning that dream into reality is not always in their hands. We understand that not every student has the capacity to achieve academic success, so we offer our phenomenal academic services to give them a helping hand.</p>
-      <p style="color: #182E47;" class="mb-4">Our mission is not just to complete your academic work, but we also strive to capture excellent scores through it. Our assistance also lets students have some break from their consecutive assignments and tasks, in which they can meet their commitments. It means you can score better without even struggling with your academic work. That’s why we always pay attention to your “Do My Assignment” call.</p>
+    <div class="content-wrapper text-center ">
+      <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">
+        Make All the Academic Goals Achievable Through Our Academic Paper Writing Help
+      </h2>
+      <p style="color: #182E47;" class="mb-4">
+        Dreaming about achieving academic goals is what all students do, but turning that dream into reality is not always in their hands. We understand that not every student has the capacity to achieve academic success, so we offer our phenomenal academic services to give them a helping hand.
+      </p>
 
-      <p style="color: #182E47;">Our writers also specialize in researching, proofreading, formatting, and editing. Assignments Help Ireland has provided services to thousands of students and helped them achieve their desired grades. Therefore, once you order our services, we guarantee the best results with outstanding grades.</p>
+      <p style="color: #182E47;">
+        Our mission is not just to complete your academic work, but we also strive to capture excellent scores through it. Our assistance also lets students have some break from their consecutive assignments and tasks, in which they can meet their commitments. It means you can score better without even struggling with your academic work. That’s why we always pay attention to your “Do My Assignment” call.
+      </p>
     </div><!--.content-wrapper-->
   </div>
 </section>
 <!--====================== End Content Section ======================-->
 
-<section class="section50 py-5" id="how-ireland-works">
-  <div class="container">
-    <div class="heading">
-      <h2 class="heading-title text-center mb-5"> Assignments Help Ireland Procedure </h2>
-    </div>
-    <div class="row pb-3">
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="box bg-white border shadow">
-          <li class="icon"> <i aria-hidden="true" class="fa fa-file-text-o"></i></li>
-          <h3 class="works-title text-green">Order Submission</h3>
-          <p class="works-content">To submit your order, fill out our order form with your complete assignment details. After reviewing your assignment, we will offer you a custom price quote. </p>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="box middle box bg-white border shadow ">
-          <li class="icon"> <i class="fa fa-credit-card" aria-hidden="true"></i></li>
-          <h3 class="works-title text-green">Payment Method</h3>
-          <p class="works-content">We offer payment methods via Visa and debit card before assigning the best subject professional for your project. They will start writing your assignment and deliver it to you before the deadline. </p>
-        </div>
-      </div>
-      <div class="col-md-4 ">
-        <div class="box box bg-white border shadow">
-          <li class="icon"> <i aria-hidden="true" class="fa fa-envelope-o"></i></li>
-          <h3 class="works-title text-green">Assignment Delivery</h3>
-          <p class="works-content">We will email you a complete assignment using your email ID. If you think there’s still something to be changed or edited, we can do it freely since we offer unlimited revisions. </p>
-        </div>
-      </div>
-    </div>
-    <span class="d-flex justify-content-center"> <a href="#" class="btn-new">Send Us Query Now</a>
-  </div>
+{{-- <div class="row mt-8 hide-on-mobile">
+  <img class="" src="{{ asset('images/Separator.svg')}}" alt="asg">
+</div> --}}
+
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+<section class="section50 py-3" id="how-ireland-works">
+ @include('partials.procedure')
 
   </span>
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
 <!-- 14th section custom essay writing -->
-<section class="overflow-hidden my-4 py-4">
-  <div class=" container px-3">
-    <div class="row mb-5 align-items-center">
-      <div class="col-lg-6 p-4">
-        <h2 class="text-2xl mb-6 font-medium">
-        Join Hands with the Prominent Academic Assignment Writing Website to Get Help Countrywide
-        </h2>
+<section class="overflow-hidden my-4 py-5">
+  <div class=" container p-0">
+    <div class="row lg-mb-5 align-items-center sm-px-4">
+      <div class="col-lg-6 p-3">
+        <h2 class="text-2xl mb-6  font-medium">
+          Join Hands with the Prominent Academic Assignment Writing Website to Get Help Countrywide
+                </h2>
         <p>
-        Struggling with academics is no less than a nightmare for students. But students deal with it for the sake of good grades. Therefore, we have the most convenient way out of that. Assignments Help Ireland is the most reliable service to help you with all your academic tasks in a way that will benefit you with your grades.
+          Struggling with academics is no less than a nightmare for students. But students deal with it for the sake of good grades. Therefore, we have the most convenient way out of that. Assignments Help Ireland is the most reliable service to help you with all your academic tasks in a way that will benefit you with your grades.
         </p>
         <br>
         <p>
-        Our academic writing center is not far from you in any way because we deliver our help to every corner of every street in Ireland. Thanks to our online platform, you can avail of our help in Dublin, Galway, Limerick, Waterford, Cork, Kilkenny, and all the other areas. You can leave your tasks to us with just a few clicks on our website and receive the complete version from us without any hassle. 
+          Our academic writing center is not far from you in any way because we deliver our help to every corner of every street in Ireland. Thanks to our online platform, you can avail of our help in Dublin, Galway, Limerick, Waterford, Cork, Kilkenny, and all the other areas. You can leave your tasks to us with just a few clicks on our website and receive the complete version from us without any hassle.
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
@@ -306,31 +249,31 @@
         </div>
       </div>
       <div class="text-center col-lg-6 p-3">
-        <img src="images/01.jpg" width="100%" alt="asg" class="img-fluid">
+        <img src="images/double-section1.webp" width="100%" alt="double-section1" title="double-section1" class="img-fluid">
       </div>
     </div>
-    <div class="row align-items-center">
+    <div class="row align-items-center sm-px-4">
       <div class="text-center col-lg-6 p-3 order-2 order-md-1">
-        <img src="images/02.jpg" width="100%" alt="asg" class="img-fluid">
+        <img src="images/double-section2.webp" width="100%" alt="double-section2" class="img-fluid" title="double-section2">
       </div>
       <div class="col-lg-6 p-4 order-1 order-md-2">
         <h2 class="text-2xl mt-4 my-4 font-medium">
-        Trust Our Incredible Irish Academic Writing Expert Organisation for Instant Academic Assistance
+          Trust Our Incredible Irish Academic Writing Expert Organisation for Instant Academic Assistance
         </h2>
         <p>
-        Submission of academic work on time is a real struggle because every student fears losing scores. Our services welcome you if you are ready to partner with a professional organization for your assignment help. We promise to take care of your academic work and complete it on time so you don’t miss your deadline.
+          Submission of academic work on time is a real struggle because every student fears losing scores. Our services welcome you if you are ready to partner with a professional organization for your assignment help. We promise to take care of your academic work and complete it on time so you don’t miss your deadline.
         </p>
         <br>
         <p>
-        Moreover, if your deadline is just around the corner and you haven’t started the assignment yet, we provide a solution for that as well. We have an urgent academic writing offer since our team has over 5000 qualified academic helpers who work on different shifts. We’ll ensure that your work is completed on time and save you from losing even a single score due to late submission.
+          Moreover, if your deadline is just around the corner and you haven’t started the assignment yet, we provide a solution for that as well. We have an urgent academic writing offer since our team has over 5000 qualified academic helpers who work on different shifts. We’ll ensure that your work is completed on time and save you from losing even a single score due to late submission.
         </p>
         <!-- Order Now Button -->
         <div class="mx-auto text-center text-lg-start mt-12 mt-lg-5">
           <a href="#">
             <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
               class="px-4 btn py-3">
-              Write my academic paper in Ireland
-            </button>
+              Write my academic paper in Ireland         
+               </button>
           </a>
         </div>
       </div>
@@ -339,16 +282,20 @@
 </section>
 
 
+{{-- Seperator --}}
 
-<section class="container-lg incentives benefits" id="benefits">
+@include('partials.seperator')
+
+<section class="container-fluid incentives benefits" id="benefits">
   <div class="container-lg img-boxes">
-    <div class="row">
+    <div class="row ">
       <div class="col-md-12">
         <h3 class="text-center">
-        What Makes Assignments Help Ireland Worthwhile to Your Attention?
+          What Makes Assignments Help Ireland Worthwhile to Your Attention?
         </h3>
         <p class="text-center">
-        Get a package full of perks with our academic writing services for an astounding experience with us.
+          Get a package full of perks with our academic writing services for an astounding experience with us.
+        </p>
       </div>
     </div>
     <div class="row">
@@ -356,29 +303,27 @@
         <div class="quality-boxes">
           <div class="row">
             <div class="col-md-6 mb-3">
-              <div class="wrapperz">
-                <div class="box">
-                  <img src="images/__Low price.png" alt="Quality img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Low-price-copy.webp" alt="__Low-price-copy" width="96" height="96" title="__Low-price-copy">
                 </div>
-                <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Affordable Assignment Help Services</h4>
-                  <p class="wrapper-text">
-                  We assure you that our services are highly affordable for students with various financial standards. Our services are cheap yet professional for everyone. 
-
-
+                <div class="card-body col-9 wrapper-box-content">
+                  <h4 class="card-title qualtiy-box-title">Affordable Assignment Help Services</h4>
+                  <p class="card-text wrapper-text">
+                    We assure you that our services are highly affordable for students with various financial standards. Our services are cheap yet professional for everyone. 
                   </p>
                 </div>
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class=" wrapperz">
-                <div class="box">
-                  <img src="images/__Experienced Writers.png" alt="writer img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Experienced-Writers-copy.webp" alt="__Experienced-Writers-copy"  width="96" height="96" title="__Experienced-Writers-copy">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">Professional Assignment Writers Help</h4>
                   <p class="wrapper-text">
-                  We have a team of writers with professional experience to ensure you will receive quality work without exception. So, you don’t need to worry about your tasks since our writers are here for you.
+                    We have a team of writers with professional experience to ensure you will receive quality work without exception. So, you don’t need to worry about your tasks since our writers are here for you.
 
 
                   </p>
@@ -387,28 +332,28 @@
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class="wrapperz">
-                <div class="box">
-                  <img src="images/__Timely Delivery.png" alt="deadline img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Timel- Delivery-copy.webp" alt="__Timel- Delivery-copy"  width="96" height="96" title="__Timel- Delivery-copy">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">Fast Delivery</h4>
                   <p class="wrapper-text">
-                  We believe that time is important for everyone. Since we offer fast delivery, we will always provide you with your completed task before the deadline with quality. 
+                    We believe that time is important for everyone. Since we offer fast delivery, we will always provide you with your completed task before the deadline with quality. 
                   </p>
                 </div>
 
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class="wrapperz">
-                <div class="box">
-                  <img src="images/100-Plag free.png" alt="source img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__100 -Plag-free-copy.webp" alt="__100 -Plag-free-copy"  width="96" height="96" title="__100 -Plag-free-copy">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">100% Plagiarism-Free Content</h4>
                   <p class="wrapper-text">
-                  Our team of writers always provides original, 100% plagiarism-free content without copyright issues. We also assure you of the best work. 
+                    Our team of writers always provides original, 100% plagiarism-free content without copyright issues. We also assure you of the best work. 
 
                   </p>
                 </div>
@@ -416,29 +361,29 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="wrapperz">
-                <div class="box">
-                  <img src="images/__24-7 customer support.png" alt="support img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__24-7-customer-support-copy.webp" alt="__24-7-customer-support-copy" title="__24-7-customer-support-copy" width="96" height="96">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">24-hour Customer Support </h4>
                   <p class="wrapper-text">
-                  We provide our clients with 24-hour support, so you can freely contact us at any time with any queries or doubts. 
+                    We provide our clients with 24-hour support, so you can freely contact us at any time with any queries or doubts. 
                   </p>
                 </div>
 
               </div>
             </div>
             <div class="col-md-6">
-              <div class="wrapperz">
-                <div class="box">
-                  <img src="images/__Free samples.png" alt="hidden img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Free-samples-copy.webp" alt="__Free-samples-copy" title="__Free-samples-copy" width="96" height="96">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">Free Work Examples</h4>
                   <p class="wrapper-text">
-                  We also offer our free work examples to clients to give them an idea of our quality work, and they will deliver it to them. <a href="#"></a></p>
-                </div>
+                    We also offer our free work examples to clients to give them an idea of our quality work, and they will deliver it to them. 
+                  </div>
 
               </div>
             </div>
@@ -449,55 +394,24 @@
   </div>
 </section>
 
-<section class=" py-5 free-feature">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h4>Free Gifts with Every Order</h4>
-        <p class="wrapper-text">
-        Get complete delivery of your order, including our free features.
-                  </p>
-        <hr class="hr-line w-25 mx-auto">
-      </div>
-    </div>
-    <div class="container row g-0 g-md-3 m-t-20">
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Plagiarism Report </span><span class="h5 mb-0"><del>€
-              15.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Preferred Style Referencing </span><span
-            class="h5 mb-0"><del>€ 11.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> On-Point Formatting </span><span class="h5 mb-0"><del>€
-              17.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Subject Matter Experts </span><span class="h5 mb-0"><del>€
-              20.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Free Edits &amp; Revisions </span><span class="h5 mb-0"><del>€
-              16.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Title &amp; Cover Page </span><span class="h5 mb-0"><del>€
-              28.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-    </div>
-    <div>
-      <p><b>Buy assignments online</b> from Write My Assignment and enjoy all these perks for free! <span
-          class="red"><del>65,86</del> FREE </span></p>
-    </div>
-  </div>
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
+<section class=" py-5 free-feature sm-px-4">
+  @include('partials.package')
 </section>
 
-<section>
-  <div class="position-relative px-0 pb-5">
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+<section class="writers">
+  <div class="position-relative px-0 pb-5 pt-3 mb-3">
     <div style="padding-left: 2rem; padding-right: 2rem;" class="container mx-auto">
-      <h3 style="color: #5A5959;" class="text-center mt-5">Meet Our
-        <span class="text-[#EF443B]">  Best Assignment Writers Online 
+      <h3 style="color: #5A5959;" class="text-center mt-5">Meet Our Best Assignment Writers Online 
+        <span class="text-[#EF443B]"> 
         </span>
       </h3>
 
@@ -508,7 +422,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Mark Lee" title="Mark Lee"
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -516,7 +430,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><h4 class="h5 mb-0">Mark Lee</h4>
+                      <div class="col-md-6 "><h4 class="h5 mb-0">Mark Lee</h4>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -572,18 +486,17 @@
 
                         </div>
                         <div class="row g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;" class="">PhD Degree</h5>
+                          <div class="col-md-6"><h5  class="">PhD Degree</h5>
                           </div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 18,752<h5
+                          <div class="col-md-6"><h5>18,752 <span
                                 style="font-weight: normal">Orders
-                                </span></span></div>
+                                </span></h5></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 14,925 <h5
-                                style="font-weight: normal;"> Reviews
-                                </span></span></div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 98% <span
-                                style="font-weight: normal;">Success Rate</span></span>
+                          <div class="col-md-6"><h5> 14,925 <span> Reviews
+                                </span></h5></div>
+                          <div class="col-md-6"><h5> 98% <span
+                                style="font-weight: normal;">Success Rate</span></h5>
                           </div>
                         </div>
 
@@ -595,9 +508,14 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Mark Lee has offered professional services for over five years with a 5-star rating and a 98% success rate and has completed 8000 orders in Assignment Help Ireland. He is qualified with a PhD and specializes in many different modes of writing, including case studies, reports, essays, and more. His written documents always help students achieve better grades across Ireland. "</p>
+                          <p>
+                            Mark Lee has offered professional services for over five years with a 5-star rating and a 98% success 
+                            rate and has completed 8000 orders in Assignment Help Ireland. He is qualified with a PhD and specializes 
+                            in many different modes of writing, including case studies, reports, essays, and more. His written documents 
+                            always help students achieve better grades across Ireland.                           
+                          </p>
                         </div>
-                        <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
+                        <div class="mt-4 text-center"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
                             Paper </a>
                         </div>
@@ -614,7 +532,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-three.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-three.svg" alt="Jack Martin " title="Jack Martin "
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -622,7 +540,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><h4 class="h5 mb-0">Jack Martin</h4>
+                      <div class="col-md-6"><h4 class="h5 mb-0">Jack Martin </h4>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -680,7 +598,7 @@
                         <div class="row g-0">
                           <div class="col-md-6"><h5 style="font-weight: 600;" class="">Master’s Degree</h5>
                           </div>
-                          <div class="col-md-6"><h5 style="font-weight: 600;"> 8,215 Orders  <span
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 8,215  Orders  <span
                                 style="font-weight: normal">Orders
                                  </span></h5></div>
                         </div>
@@ -701,7 +619,12 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Jack Martin, with 10 years of experience in Assignments Help Ireland, completed more than 8000 orders with a 4.9/5 rating and received 7,000 reviews. He helped thousands of students across Ireland with his professional writing services. He is qualified with a master's in English and outstanding grades. The studying company appreciated him for his quality services, as his success rate is 99%."</p>
+                          <p>
+                            Jack Martin, with 10 years of experience in Assignments Help Ireland, completed more than 8000 orders 
+                            with a 4.9/5 rating and received 7,000 reviews. He helped thousands of students across Ireland with his 
+                            professional writing services. He is qualified with a master's in English and outstanding grades. The 
+                            studying company appreciated him for his quality services, as his success rate is 99%.                          
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -720,7 +643,7 @@
             <div class="professional-box">
               <div class="row align-items-center g-0">
                 <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
-                    src="https://www.assignmentshelp.ae/imgs/images-new/person-two.svg" alt="Joshua" title="Joshua"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-two.svg" alt="Cathy Goodman " title="Cathy Goodman "
                     loading="lazy" width="250" height="180">
                 </div>
                 <div class="col-lg-9">
@@ -728,7 +651,7 @@
 
                   <div class="team-box">
                     <div class="row">
-                      <div class="col-md-6"><span class="h5 mb-0">Joshua</span>
+                      <div class="col-md-6"><span class="h5 mb-0">Cathy Goodman </span>
                         <div class="d-flex">
                           <div class="e-text">
                             4.9 Rating
@@ -784,18 +707,18 @@
 
                         </div>
                         <div class="row g-0">
-                          <div class="col-md-6"><span style="font-weight: 600;" class="">PhD</span>
+                          <div class="col-md-6"><span style="font-weight: 600;" class="">MPhil Degree</span>
                           </div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 2855 <span
-                                style="font-weight: normal">Assignments
-                                Written</span></span></div>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 10,012 <span
+                                style="font-weight: normal">Orders
+                                </span></span></div>
                         </div>
                         <div class="row mt-3 g-0">
-                          <div class="col-md-6"><span style="font-weight: 600;"> 96% <span
-                                style="font-weight: normal;">Client
-                                Retention</span></span></div>
-                          <div class="col-md-6"><span style="font-weight: 600;"> 300+ <span
-                                style="font-weight: normal;">Reviews</span></span>
+                          <div class="col-md-6"><span style="font-weight: 600;">9,565 <span
+                                style="font-weight: normal;">Reviews
+                                </span></span></div>
+                          <div class="col-md-6"><span style="font-weight: 600;"> 99%  <span
+                                style="font-weight: normal;">Success Rate</span></span>
                           </div>
                         </div>
 
@@ -807,12 +730,125 @@
                       </div>
                       <div class="col-md-6">
                         <div class="px-3 py-3 paragraph-box">
-                          <p>"Hello students. Meet Joshua, the most consistent
-                            performer of our team. If you are wondering who
-                            can write my assignment in Dublin, this is the
-                            guy that you can surely trust. He will not let
-                            you down and will pick up your grades with an
-                            exceptional assignment."</p>
+                          <p>
+                            Cathy is one of our brilliant writers who has completed 10,000 orders with her amazingly high-quality 
+                            content and received nearly 9,500 reviews. She is qualified with an MPhil and has helped several students 
+                            with various tasks with quality work and timely delivery. Students across Ireland, including Dublin, greatly 
+                            honour her professional services due to her 5-star rating and 99% success rate.  
+                          </p>
+                        </div>
+                        <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
+                            style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
+                            Paper </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div style="display: block;" class="mySlides">
+            <div class="professional-box">
+              <div class="row align-items-center g-0">
+                <div class="col-lg-3"><img class="img-fluid lazyload mx-auto d-block"
+                    src="https://www.assignmentshelp.ae/imgs/images-new/person-one.svg" alt="Tiffany James  " title="Tiffany James  "
+                    loading="lazy" width="250" height="180">
+                </div>
+                <div class="col-lg-9">
+
+
+                  <div class="team-box">
+                    <div class="row">
+                      <div class="col-md-6"><h4 class="h5 mb-0">Tiffany James  </h4>
+                        <div class="d-flex">
+                          <div class="e-text">
+                            4.9 Rating
+                          </div>
+                          <ul style="list-style: none; padding-left: 0rem;"
+                            class="d-flex justify-content-center align-content-center">
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                            <li>
+                              <svg style="width: 1rem; color: #FFCD05;" aria-hidden="true" focusable="false"
+                                data-prefix="fas" data-icon="star" class="w-4 text-[#FFCD05]" role="img"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor"
+                                  d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
+                                </path>
+                              </svg>
+                            </li>
+                          </ul>
+
+                        </div>
+                        <div class="row g-0">
+                          <div class="col-md-6"><h5 style="font-weight: 600;" class="">PhD Degree</h5>
+                          </div>
+                          <div class="col-md-6"><h5 style="font-weight: 600;">18,263  <span
+                                style="font-weight: normal">Orders
+                                </span></h5></div>
+                        </div>
+                        <div class="row mt-3 g-0">
+                          <div class="col-md-6"><h5 style="font-weight: 600;">16,113  <span
+                                style="font-weight: normal;"> Reviews
+                                </span></h5></div>
+                          <div class="col-md-6"><h5 style="font-weight: 600;"> 98% <span
+                                style="font-weight: normal;">Success Rate</span></h5>
+                          </div>
+                        </div>
+
+                        <ul style="padding-left: 0rem;" class="topics-covered m-t-30">
+                          <li class="list-inline-item">Reflective Writing</li>
+                          <li class="list-inline-item">Content Expert</li>
+                          <li class="list-inline-item">Blog Writer</li>
+                        </ul>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="px-3 py-3 paragraph-box">
+                          <p>
+                            Tiffany has been working at Assignments Help Ireland for 5 years and providing incredible content 
+                            that has won the hearts of several students. Her excellent writing skills have helped many students 
+                            achieve good grades and succeed in their university exams. She is qualified with PhD in Journalism 
+                            and has a success rate of 98%. She has completed more than 2000 orders with her professional skills, 
+                            has a 4.9/5 star rating, 1500 reviews, and is highly honored worldwide. 
+                          </p>
                         </div>
                         <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
@@ -829,292 +865,113 @@
           </div>
         </div>
         <div style="text-align:center" class="pt-4">
-          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot activeOne" onclick="currentSlide(1)"></span>
           <span class="dot" onclick="currentSlide(2)"></span>
           <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
 
 <section style="background-color: #DBECFE; padding: 80px 0px 80px 0px;" class="content bg-content">
-  <div class="container">
+  <div class="container p-0 sm-px-4">
     <div style="padding-left: 1rem;" class="row">
-      <div class="row m-t-20">
+      <div class="row p-0 m-t-20">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Escalate Towards the Achievements with the Support of Our Professional Academic Paper Writers</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="py-3" >Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything.</p>
-          <p style="color: black;" class="py-3" >For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates.</p>
+          <h2 class="h6 fw-bold fs-4">
+            Escalate Towards the Achievements with the Support of Our Professional Academic Paper Writers
+          </h2>
+          <p style="color: black;" class="pt-4">
+            If you feel like the academic burden is getting overloaded, the best option is to opt for help, and getting professional assistance is a plus. So, it’s time you make the decision in your favour and get yourself rid of this daily academic burden by hiring our school, college, and university academic writers. We have an exceptional team of academic writers who write your assignments by implementing their extraordinary skills.            </p>
+          <p style="color: black;" class="py-3" >
+            Our writers are all trustworthy since they come from brilliant educational backgrounds. Their know-how about different subjects and topics makes it worthwhile to hire them. You can get their help in any subject, like business, communication, media, accounting, supply chain, engineering, medicine, or any other field. They know how to surprise their clients with groundbreaking academic writing.
+          </p>
+          <p style="color: black;" class="py-3" >
+            You can even order any kind of academic tasks, such as case studies, report writing, presentations, homework, and others. Our writers are all ears to your “Write My Assignment” messages and orders.
+          </p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Get Perfect at Your Academic Performance by the Quality Work Delivered by Our Top-Notch Academic Helpers</h2>
-          <p style="color: black;" class="pt-4">Despite doing your best in your academic work and submitting it on time, you need some guidance to maintain quality if you do not get your desired scores. Our academic services are open for consultation and guidance, where you can complete your entire work on time. Our writers have been working in this field for more than 10 years, so they know how to write perfect academic work.</p>
-          <p style="color: black;" class="py-3">In fact, we have a strict procedure for writing each academic work, which includes in-depth research and understanding of the topic of your task. Our writers also have the best research skills to help them collect relevant data and use them as solid facts and examples with proper references where needed. </p>
-          <p style="color: black;" class="py-3">They invest time in reading to expose their mind to more points to write in the academic work. Once they are done writing your paper, assignment, report, or any other academic work, they proofread and edit it many times to ensure no errors. So, get help in any subject or task, including management, social sciences, or nursing assignment, and receive it in the highest quality. </p>
+          <h2 class="h6 fw-bold fs-4"> 
+            Accomplishments and Savings Side by Side with Our Affordable Academic Assignment Help
+          </h2>
+          <p style="color: black;" class="pt-4">
+            Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.
+          </p>
+          <p style="color: black;" class="py-3">
+            Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything.
+          </p>
+          <p style="color: black;" class="py-3">
+            For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates.
+          </p>
+          
         </div>
       </div>
-      <div class="row">
+      <div class="row p-0">
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4"> Safe &amp; Welcome Academic Excellence Through Customized Academic Papers Writing from Assignments Help Ireland</h2>
-          <p style="color: black;" class="pt-4">If you are tired of the poor grades and your professor’s disappointment, come to us and get all your academic problems resolved with our help. We offer a custom academic writing service through which you can get your academic tasks completed exactly like your professor appreciates.</p>
-          <p style="color: black;" class="py-3">Whether it's a Master’s, PhD, Bachelor’s, or CIPD assignment, you can hire the best academic writer to complete it as per your requirements. Our writers are experts in dealing with different academic tasks and completing them as per the instructions. Since they are remarkably trained and experienced, they know how to fulfil each instruction without ruining the quality.</p>
-          <p style="color: black;" class="py-3">Furthermore, no matter if your task needs to be completed from scratch or from the midway, our writers can take it towards perfection. They proofread it and make corrections to meet your needs. So, you don’t have to worry about your grades, as professional help is at your fingertips. You can even surprise your professors with your superb work through our services.</p>
+          <h2 class="h6 fw-bold fs-4">
+            Get Perfect at Your Academic Performance by the Quality Work Delivered by Our Top-Notch Academic Helpers
+          </h2>
+          <p style="color: black;" class="pt-4">
+            Despite doing your best in your academic work and submitting it on time, you need some guidance to maintain quality if you do not get your desired scores. Our academic services are open for consultation and guidance, where you can complete your entire work on time. Our writers have been working in this field for more than 10 years, so they know how to write perfect academic work.
+          </p>
+          <p style="color: black;" class="py-3">
+            In fact, we have a strict procedure for writing each academic work, which includes in-depth research and understanding of the topic of your task. Our writers also have the best research skills to help them collect relevant data and use them as solid facts and examples with proper references where needed.
+          </p>
+          <p style="color: black;" class="py-3">
+            They invest time in reading to expose their mind to more points to write in the academic work. Once they are done writing your paper, assignment, report, or any other academic work, they proofread and edit it many times to ensure no errors. So, get help in any subject or task, including management, social sciences, or nursing assignment, and receive it in the highest quality.
+          </p>
         </div>
         <div class="col-md-6">
-          <h2 class="h6 fw-bold fs-4">Accomplishments and Savings Side by Side with Our Affordable Academic Assignment Help</h2>
-          <p style="color: black;" class="pt-4">Getting help for academic writing may not be a big deal, but many students avoid it due to the high rates. Suppose you are confused about where to get help that can easily come under your budget and provide quality academic writing. In that case, we welcome you to our platform, which guarantees a cheap academic writing service.</p>
-          <p style="color: black;" class="pt-4">Keeping our rates low always makes us the go-to source for many Irish students. However, if you consider it a scam, we assure you that our organisation is certified and authentic and always delivers quality work. Our rates have no link with the quality of work, as we always prioritise quality over anything. </p>
-          <p style="color: black;" class="py-3">For further satisfaction, we also offer some free services, on which other platforms usually charge an extra amount. We provide plagiarism reports, cover pages, unlimited revisions, and a few other free offers in our package. It does not matter if you need help with law assignment, science homework, or business case study; we are all up to assist you at affordable rates. </p>
+          <h2 class="h6 fw-bold fs-4">
+            Welcome Academic Excellence Through Customized Academic Papers Writing from Assignments Help Ireland
+          </h2>
+          <p style="color: black;" class="pt-4">
+            If you are tired of the poor grades and your professor’s disappointment, come to us and get all your academic problems resolved with our help. We offer a custom academic writing service through which you can get your academic tasks completed exactly like your professor appreciates.
+          </p>
+          <p style="color: black;" class="pt-4">
+            Whether it's a Master’s, PhD, Bachelor’s, or CIPD assignment, you can hire the best academic writer to complete it as per your requirements. Our writers are experts in dealing with different academic tasks and completing them as per the instructions. Since they are remarkably trained and experienced, they know how to fulfil each instruction without ruining the quality.
+          </p>
+          <p style="color: black;" class="py-3">
+            Furthermore, no matter if your task needs to be completed from scratch or from the midway, our writers can take it towards perfection. They proofread it and make corrections to meet your needs. So, you don’t have to worry about your grades, as professional help is at your fingertips. You can even surprise your professors with your superb work through our services.
+          </p>
         </div>
       </div>
       <div class="row">
         
         
       </div>
-          <div class="mt-5 text-center"><a href="https://www.writemyassignment.ie/contact-us"
-              style="background-color: #0b2051; color: white;" class="btn btn-dual-shade">  Order Now</a>
+          <div class="mt-5 text-center">
+            <a href="#">
+              <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
+                class="px-4 btn py-3 px-5">
+                Order Now
+              </button>
+            </a>
           </div>
       </div>
 </section>
 
-<section style="background-color: #DBECFE;" class="mt-5 overflow-hidden pb-5">
-  <div class="container mx-auto px-5 py-5">
-    <div class="mx-5">
-      <h3 style="font-weight: 600; font-size: 2.75rem;" class="text-dark text-center mt-5">Sample Of Our Papers</h3>
-    </div>
-    <!-- grid start of downloadable form -->
-    <div class="row g-4 mt-4 mt-md-5">
-      <!-- Grid Col 1 -->
-      <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
-        <!-- Your content here -->
-        <div class="position-relative sample-paper">
-          <div
-            style="width: 18rem; height: 30rem; background-color: #192E49; margin-left: 2.5rem; rotate: 12deg; border-radius: 1rem;">
-          </div>
-          <div style="border-radius: 0.75rem;" class="position-absolute top-0 start-0 end-0 bottom-0 bg-white pb-4">
-            <p style="font-weight: 600; color: black" class="text-center mt-5">Assignment</p>
-            <div class="row p-4">
-              <!-- First 2 grid Of Title -->
-              <div class="col-lg-4 col-4">
-                <p class="text-sm  font-normal ">Title:</p>
-              </div>
-              <div class="col-lg-8 col-8">
-                <p class="text-sm  font-normal ">Strategic Change Management</p>
-              </div>
-              <hr class="mt-1">
-              <!-- Second 2 grid of Discipline -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Discipline:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Management
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Third 2 grid of Academic -->
-              <div class="col-lg-6 col-7">
-                <p class="text-sm  font-normal ">Academic Level:</p>
-              </div>
-              <div class="col-lg-6 col-5">
-                <p class="text-sm  font-normal ">Masters
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fourth 2 grid of Pages -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Pages:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">24
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fifth 2 grid of Format -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Format:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Harvard
-                </p>
-              </div>
-              <hr class="mt-1">
-            </div>
-            <!-- Download Sample Button -->
-            <div class="row text-center">
-              <a href="{{ asset('samples/Role-of-leadership-Management-in-Provision-of-QA-in-Food-Companies.pdf') }}"
-                target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Download Sample
-                </button></a>
-            </div>
-            <!-- Order Now Button -->
-            <div class="row justify-content text-center mt-3">
-              <a href="#" target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Order Now
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Grid Col 2 -->
-      <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
-        <!-- Your content here -->
+{{-- Seperator --}}
 
-        <div class="position-relative sample-paper">
-          <div
-            style="width: 18rem; height: 30rem; background-color: #192E49; margin-left: 2.5rem; rotate: 12deg; border-radius: 1rem;">
-          </div>
-          <div style="border-radius: 0.75rem;" class="position-absolute top-0 start-0 end-0 bottom-0 bg-white pb-4">
-            <p style="font-weight: 600; color: black" class="text-center mt-5">Assignment</p>
-            <div class="row p-4">
-              <!-- First 2 grid Of Title -->
-              <div class="col-lg-4 col-4">
-                <p class="text-sm  font-normal ">Title:</p>
-              </div>
-              <div class="col-lg-8 col-8">
-                <p class="text-sm  font-normal ">Strategic Change Management</p>
-              </div>
-              <hr class="mt-1">
-              <!-- Second 2 grid of Discipline -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Discipline:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Management
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Third 2 grid of Academic -->
-              <div class="col-lg-6 col-7">
-                <p class="text-sm  font-normal ">Academic Level:</p>
-              </div>
-              <div class="col-lg-6 col-5">
-                <p class="text-sm  font-normal ">Masters
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fourth 2 grid of Pages -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Pages:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">24
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fifth 2 grid of Format -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Format:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Harvard
-                </p>
-              </div>
-              <hr class="mt-1">
-            </div>
-            <!-- Download Sample Button -->
-            <div class="row text-center">
-              <a href="{{ asset('samples/Role-of-leadership-Management-in-Provision-of-QA-in-Food-Companies.pdf') }}"
-                target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Download Sample
-                </button></a>
-            </div>
-            <!-- Order Now Button -->
-            <div class="row justify-content text-center mt-3">
-              <a href="#" target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Order Now
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Grid Col 3 -->
-      <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
-        <!-- Your content here -->
+@include('partials.seperator')
 
-        <div class="position-relative sample-paper">
-          <div
-            style="width: 18rem; height: 30rem; background-color: #192E49; margin-left: 2.5rem; rotate: 12deg; border-radius: 1rem;">
-          </div>
-          <div style="border-radius: 0.75rem;" class="position-absolute top-0 start-0 end-0 bottom-0 bg-white pb-4">
-            <p style="font-weight: 600; color: black" class="text-center mt-5">Assignment</p>
-            <div class="row p-4">
-              <!-- First 2 grid Of Title -->
-              <div class="col-lg-4 col-4">
-                <p class="text-sm  font-normal ">Title:</p>
-              </div>
-              <div class="col-lg-8 col-8">
-                <p class="text-sm  font-normal ">Strategic Change Management</p>
-              </div>
-              <hr class="mt-1">
-              <!-- Second 2 grid of Discipline -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Discipline:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Management
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Third 2 grid of Academic -->
-              <div class="col-lg-6 col-7">
-                <p class="text-sm  font-normal ">Academic Level:</p>
-              </div>
-              <div class="col-lg-6 col-5">
-                <p class="text-sm  font-normal ">Masters
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fourth 2 grid of Pages -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Pages:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">24
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fifth 2 grid of Format -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Format:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Harvard
-                </p>
-              </div>
-              <hr class="mt-1">
-            </div>
-            <!-- Download Sample Button -->
-            <div class="row text-center">
-              <a href="{{ asset('samples/Role-of-leadership-Management-in-Provision-of-QA-in-Food-Companies.pdf') }}"
-                target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Download Sample
-                </button></a>
-            </div>
-            <!-- Order Now Button -->
-            <div class="row justify-content text-center mt-3">
-              <a href="#" target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Order Now
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<section  class=" overflow-hidden pb-5">
+  @include('partials.sample')
 </section>
 
-<section class="mt-5 home-testimonial">
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
+<section class="home-testimonial">
   <div class="container mx-auto px-5 py-5">
     <h3 class="text-dark text-center mb-5 mx-2 mx-md-4">Testimonials</h3>
     <!-- Customer Carousel  -->
@@ -1125,7 +982,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-four.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-four.jpg" alt="testimonials-four" title="testimonials-four">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">I am really amazed at their services. Assignments Help Ireland is the leading platform, and this is not the first time I have used their services, so I can assure you that this company is very professional and affordable. 
@@ -1191,7 +1048,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-three.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-three.jpg" alt="testimonials-three" title="testimonials-three">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">Assignments Help Ireland is the most reliable platform. It served thousands of students, including me. I am pleased with their quality work and timely delivery. Highly recommended!
@@ -1246,7 +1103,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h4>~ Henry James  </h4>
+              <h4>~ Henry James </h4>
             </div>
           </div>
         </div>
@@ -1257,11 +1114,10 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-two.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-two.jpg" alt="testimonials-two" title="testimonials-two">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">Assignments Help Ireland is an easy and affordable platform offering a variety of online assignment services with professionalism. I am amazed with the grades that I have obtained after using their services. It is a reliable platform, and I highly recommend it. 
-
               </p>
             </div>
             <ul style="list-style: none; padding-left: 0rem;"
@@ -1324,7 +1180,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-one.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-one.jpg" alt="testimonials-one" title="testimonials-one">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">One of the best platforms I have ever serviced. They offer highly affordable services with cheap prices, and the writers are very professional, highly educated, and experienced. They provided me with a solid piece of work. Thank you!
@@ -1379,7 +1235,7 @@
               </li>
             </ul>
             <div class="text-center mt-2">
-              <h6>~ Eric Porter</h6>
+              <h4>~ Eric Porter</h4>
             </div>
           </div>
         </div>
@@ -1387,49 +1243,96 @@
       <div class="text-center mt-2 pb-5">
         <span class="dotTwo" onclick="currentSlideTwo(1)"></span>
         <span class="dotTwo" onclick="currentSlideTwo(2)"></span>
-        <span class="dotTwo activeOne" onclick="currentSlideTwo(3)"></span>
+        <span class="dotTwo " onclick="currentSlideTwo(3)"></span>
         <span class="dotTwo" onclick="currentSlideTwo(4)"></span>
       </div>
     </div>
   </div>
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
 <section class="section30" id="ire-accordion-section">
   <div class="container">
     <div class="row">
-
-      <div style="background-image: url(images/bg-image.jpg); background-size: cover; background-repeat: no-repeat;"
-        class="order-1 order-md-0 col-md-5">
+      <div class="faq order-1 order-md-0 col-md-5">
         <div id="accordion" style="padding: 30px;" class="ireland-students-faq assignment">
           <h3 class="py-3" style="color: #192E47; text-align: left;">Frequently Asked Questions</h3>
           <div class="card mb-0 border-0">
+
             <div class="accortion-list">
               <div class="card-header mt-0 collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="false">
-                <a class="card-title"> Can I get the best academic assignment help in Ireland?</a></div>
+                <a class="card-title"> 
+                  Can I get the best academic assignment help in Ireland?                </a></div>
               <div id="collapseOne" class="card-body collapse" data-parent="#accordion" style="">
-                <p>Yes! Assignments Help Ireland is the leading platform in Ireland that has been serving high-quality Irish students for over 10 years. You can fill out the form on our website and order our academic services. </p>
+                <p>
+                  Yes! Assignments Help Ireland is the leading platform in Ireland that has been serving high-quality Irish students for over 10 years. You can fill out the form on our website and order our academic services.                   </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-                aria-expanded="false"> <a class="card-title">Can you write academic assignments for me in Ireland at reasonable charges?</a></div>
+                aria-expanded="false"> <a class="card-title">
+                  Can you write academic assignments for me in Ireland at reasonable charges?
+               </a></div>
               <div id="collapseTwo" class="card-body collapse" data-parent="#accordion">
-                <p>Of course! Our rates are cheaper than other platforms offering academic services in Ireland. Our pride lies in delivering quality services at reasonable prices.</p>
+                <p>
+                  Of course! Our rates are cheaper than other platforms offering academic services in Ireland. Our pride lies in delivering quality services at reasonable prices. 
+                </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-                aria-expanded="false"> <a class="card-title">Do you guarantee originality if I buy academic papers from your platform?</a></div>
+                aria-expanded="false"> <a class="card-title"> 
+                  What if I need my academic assignment urgently?
+                </a>
+              </div>
               <div id="collapseThree" class="card-body collapse" data-parent="#accordion">
-                <p>Yes, maintaining originality in academic work is one of our main goals. Our writers always invest time in reading, understanding, and researching the topic before writing it to maintain originality. </p>
+                <p>
+                  In such a case, we offer our urgent academic writing, in which we write your assignments quicker than our typical turnaround time. This offer requires a few extra charges. 
+                </p>
               </div>
             </div>
             <div class="accortion-list">
               <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-                aria-expanded="false"> <a class="card-title">Do you have qualified writers who can write my academic assignment?</a></div>
+                aria-expanded="false"> <a class="card-title">
+                  Do you guarantee originality if I buy academic papers from your platform?
+                </a>
+                </div>
               <div id="collapseFour" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <p>Yes, each writer in our team is qualified with Master's and PhD degrees in reputable fields. They all possess astounding knowledge and skills due to their vast work experience.  </p>
+                  <p>
+                    Yes, maintaining originality in academic work is one of our main goals. Our writers always invest time in reading, understanding, and researching the topic before writing it to maintain originality. 
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+                aria-expanded="false"> <a class="card-title"> 
+                  Do you have qualified writers who can write my academic assignment?
+                </a>
+              </div>
+              <div id="collapseFive" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Yes, each writer in our team is qualified with Master's and PhD degrees in reputable fields. They all possess astounding knowledge and skills due to their vast work experience.                   </p>
+                </div>
+              </div>
+            </div>
+            <div class="accortion-list">
+              <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+                aria-expanded="false"> <a class="card-title">
+                  Is it safe to pay someone to write my academic paper?
+                </a>
+              </div>
+              <div id="collapseSix" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Yes, you can get your academic papers done by paying a professional. However, a thorough investigation is necessary to ensure authenticity before ordering help. 
+                  </p>
                 </div>
               </div>
             </div>
@@ -1437,37 +1340,38 @@
           </div>
         </div>
       </div>
-      <div class="text-center order-sm-1 col-md-7 mb-3 mb-md-0">
-        <div class="solved-assignment"> <a href="#"><img src="images/Assignment Help Ireland web image.png" width="90%"
-              alt="online-assignment-writer.webp" class="img-fluid lazyloaded"><noscript><img
-                src="images/Assignment Help Ireland web image.png" alt="online-assignment-writer.webp"
-                class="img-fluid"></noscript></a></div>
+      <div class="faq-image text-center order-sm-1 col-md-7 mb-3 mb-md-0">
+          @include('partials.faq-image')
       </div>
     </div>
   </div>
 </section>
 
+
 <section>
 
-  <div class="my-5 container-fluid py-5 px-4" style="background-image: linear-gradient(to right, #C5D2DB , #3B7090);">
+  <div class="upper-footer container-fluid py-5 px-4" >
     <div class="container">
       <!-- row -->
       <div class="row align-items-center g-0">
         <!-- img -->
         <div class="d-none d-lg-inline-block col-xl-5 col-lg-6 col-md-12 text-left pt-6">
-          <img src="images/cta-img.png" width="90%" alt="" class="img-fluid">
+          <img src="images/cta-img.png" width="90%" alt="cta-img" title="cta-img" class="img-fluid">
         </div>
         <div class="cta-text col-xl-7 col-lg-6 col-md-12">
           <!-- heading -->
           <div>
-            <h3 class="text-white display-6 fw-bold pe-lg-8">Grade-Winning Academic Papers For Students Across Ireland
-            </h3>
+            <h3 class="text-white display-6 fw-bold pe-lg-8">
+              Grade-Winning Academic Papers For Students Across Ireland
+                        </h3>
             <!-- text -->
             <p class="text-white mb-4 lead">
               Rely on us to resolve your academic queries!
             </p>
             <!-- btn -->
-            <a href="#" style="background-color: white; color: #0b2051;" class="btn">Order academic paper writing</a>
+            <a href="#" style="background-color: white; color: #0b2051;" class="btn">
+              Order academic paper writing          
+              </a>
           </div>
         </div>
 

@@ -1,4 +1,4 @@
-<header class="site-navbar js-sticky-header site-navbar-target" role="banner">
+<header class="site-navbar js-sticky-header site-navbar-target py-0" role="banner">
     <div class="site-mobile-menu site-navbar-target">
         <div class="site-mobile-menu-header">
             <div class="site-mobile-menu-close mt-3">
@@ -27,7 +27,7 @@
     <div class="container p-3">
         <div class="row align-items-center position-relative">
             <div class="col-lg-4 ">
-            <a href="index.html" class="text-black"> <img width="150px" src="images/Final-01.png" alt="" srcset=""></a>
+            <a href="index.html" class="text-black"> <img width="150px" src="images/Final-01.png" alt="Final-01" width="150" height="74" srcset="" title="Final-01"></a>
             </div>
             <div class="col-lg-8 text-end">
             <nav class="site-navigation text-right ml-auto " role="navigation">

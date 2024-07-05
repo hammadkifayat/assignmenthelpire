@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row justify-content-center sm-px-4">
             <div class="col-lg-3 col-md-6 mb-3">
-                <a href="#" class="d-block align-items-center mb-4"><img src="images/Final white.png" class="img-fluid"
-                    alt="" /></a>
+                <a href="#" class="d-block align-items-center mb-4"><img src="images/Final white.png" title="Final white"  class="img-fluid"
+                    alt="Final white" width="198" height="auto" /></a>
                 <p class="mb-4">Assignment Help is the world's leading professional academic help provider for all academic
                 level and disciplines. We are a prominent name in the market of meeting of all standards.</p>
                 <ul class="social-list list-unstyled d-flex mb-3">
@@ -94,7 +94,7 @@
             <ul class="list-unstyled d-flex justify-content-end text-center my-1">
                 <li class="ms-md-4 ms-2"><a class="text-decoration-none" href="#"></a></li>
                 <li class="ms-md-4 ms-2"><a class="text-decoration-none" href="#"><img src="images/payment-cards.png"
-                    width="50%" alt=""></a></li>
+                    width="50%" alt="payment-cards" title="payment-cards"></a></li>
             </ul>
             </div>
         </div>

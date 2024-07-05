@@ -588,10 +588,28 @@ a:hover {
         .sm-px-4 {
           padding-right: 1.5rem !important;
           padding-left: 1.5rem !important;
-      }
-  
+        }
+        .sm-px-3 {
+          padding-right: 1.25rem !important;
+          padding-left: 1.25rem !important;
+        }
+        .card{
+          --bs-card-spacer-x: 0rem !important;
+        }
         .img-box-text {
           font-size: x-small;
+        }
+        .hide-on-mobile{
+          display: none;
+        }
+        .incentives .quality-boxes .wrapperz .wrapper-text{
+          text-align: center !important;
+        }
+
+        .incentives .quality-boxes .wrapperz{
+          flex-direction: column !important;
+          align-items: center;
+          text-align: center;
         }
       }
       /* footer styling*/
@@ -731,7 +749,7 @@ a:hover {
       }
   
       .section30 {
-        padding: 30px 0
+        padding: 50px 0
       }
   
       #ire-accordion-section .solved-assignment ul li {
@@ -881,7 +899,7 @@ a:hover {
       }
   
       .home-testimonial {
-        background-image: url('../images/Section background.png');
+        background-image: url('../images/Section-background2.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -930,6 +948,9 @@ a:hover {
         padding: 20px;
         position: relative;
         width: 850px;
+      }
+      .hide-on-desktop{
+        display: none;
       }
     }
   
@@ -1090,12 +1111,6 @@ a:hover {
         }
       }
   
-      @media (min-width: 992px) {
-        .img-boxes {
-          padding: 0px 50px 0px 50px;
-        }
-      }
-  
       .benefits {
         background: #DBECFE !important;
         padding-top: 50px !important;
@@ -1117,37 +1132,37 @@ a:hover {
   
       .incentives .quality-boxes .wrapperz {
         border-radius: 10px;
-        margin: 7px 0px 10px 0px;
+        /* margin: 7px 0px 10px 0px; */
         background-color: #fff;
         display: flex;
+        flex-direction: row;
         box-shadow: 1px 3px 9px #888383;
-        height: 93%;
+        height: 95%;
       }
   
       .incentives .quality-boxes .wrapperz .box {
-        background: #f8f8f8;
         display: flex;
         justify-content: center;
         align-items: flex-start;
-        width: 100%;
+        /* width: 100%; */
         border-top-left-radius: 10px;
         border-bottom-left-radius: 10px;
         padding-top: 20px;
       }
-  
+/*   
       .incentives .quality-boxes .wrapperz .box img {
         width: 56%;
-      }
+      } */
   
       .qualtiy-box-title {
         font-weight: 600;
-        padding: 20px 0px 0px 8px;
+        /* padding: 2px 0px 0px 2px; */
         color: #232323;
       }
   
       .incentives .quality-boxes .wrapperz .wrapper-text {
-        padding: 5px 20px 8px 8px;
-        line-height: 20px;
+        /* padding: 5px 20px 8px 8px; */
+        /* line-height: 20px; */
         margin: 0;
         text-align: left;
       }
@@ -1314,7 +1329,7 @@ a:hover {
       }
   
       #how-ireland-works .box {
-        padding: 20px 30px 50px 30px;
+        padding: 20px 30px 20px 30px;
         border-radius: 10px;
         color: #23374F;
         transition: all .4s ease-in-out
@@ -1557,7 +1572,7 @@ a:hover {
 
       .banner-features .feature {
         padding: 10px 10px;
-        margin: 15px 0;
+        margin: 5px 0;
         display: flex;
         transition: .5s;
         border-radius: 15px;
@@ -1597,4 +1612,14 @@ a:hover {
     }
      .feature h5{
       font-size: small;
+    }
+    .-mt-\[3\%\] {
+      margin-top: -3%;
+      z-index: 1;
+    }
+    .-mt-\[7\.5\%\] {
+      margin-top: -6.2%;
+    }
+    .card {
+      border: none;
     }

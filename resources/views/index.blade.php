@@ -4,18 +4,18 @@
 @section('canonical', config('app.url') . Request::path())
 @section('content')
 <section class="home-banner text-center text-lg-start">
-  <div class="container">
+  <div class="container px-0">
     <div class="row align-items-center sm-px-4">
       <div class="col-lg-4">
         <h4 style="font-size: 1.6rem; font-weight: bold;"
          class="text-uppercase font-weight-bold text-light mb-2">Best Assignment Help Ireland Services
          -<span style="color: #192D48;">" Get A+ Grade "</span> By Irish Experts"</h4>
-        <p class="text-dark font-weight-bold mb-2">Assignments Help Ireland provides a wide range of services for university students, from highly professional and skilled assignment writers. Our services are available across Ireland, where we serve more than 48,000 students by writing professional assignments for them. Assignments Help Ireland is one of the top platforms with more than 10 years of experience and 98% positive reviews. </p>
-        <p class="text-dark">Our company ensures to provide you with quality work that meets all your assignment requirements within the deadline. We also provide free revisions if you think there’s a need to make some changes to the assignment. So, get the top assignment help Ireland services now. </p>
+        <p class="text-dark font-weight-bold mb-2">Assignments Help Ireland provides a wide range of services for university students through our highly professional assignment writers. We serve more than 48,000 students by writing professional assignments for them. Assignments Help Ireland is the top platform with more than 10 years of experience and 98% positive reviews. So, get the top assignment help Ireland services now.</p>
+       
         <div class="banner-features d-none d-md-block" bis_skin_checked="1">
         <div class="row" bis_skin_checked="1">
             <div class="col-md-6 p-1" bis_skin_checked="1">
-                <div class="feature align-items-center bg-green shadow" bis_skin_checked="1">
+                <div class="feature align-items-center  shadow" bis_skin_checked="1">
                     <div class="img-box img-box-1" bis_skin_checked="1"></div>
                     <div class="feature-text text-white" bis_skin_checked="1">
                         <h5 class="f-title">Rated 4.9/5</h5>
@@ -177,67 +177,16 @@
 </section>
 
 <section>
-  <div class="text-center">
-    <h3 class="text-[#EF443B] text-3xl mt-5 font-bold">Honored by the Students of: </h3>
-  </div>
-  <div class="my-4 mt-4">
-    <div class="row align-items-center text-center mx-auto">
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover rounded-hover d-sm-block d-md-none"
-          src="https://www.assignmentshelp.ae/imgs/uni/at1-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at1-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at2-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at3-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at4-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at5-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at6-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at7-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at8-80x80.png" alt="asg">
-      </div>
-      <div class="col-6 col-md-1">
-        <img class="img-fluid border-hover border-dark  rounded-hover"
-          src="https://www.assignmentshelp.ae/imgs/uni/at9-80x80.png" alt="asg">
-      </div>
-      
-      <div class="col-6 col-md-1">
-      </div>
-    </div>
-  </div>
+ @include('partials.honoured')
 
 </section>
 
-{{-- <div class="row "> --}}
-  {{-- <img class="" src="{{ asset('images/Separator.svg')}}" alt="asg">
-</div> --}}
+
 
 <!--====================== Start Content Section ======================-->
 <section>
   <div style="background: #DBECFE;" class="container-fluid py-5 px-5">
-    <div class="content-wrapper text-center">
+    <div class="content-wrapper text-center ">
       <h2 style="color: #182E47;" class="fs-2 mb-4 font-weight-bold">Delivering the Extraordinary Assignment Writing Services to Ireland Students </h2>
       <p style="color: #182E47;" class="mb-4">Assignments Help Ireland is keen to provide the most outstanding services in Ireland. Our entire team is highly experienced in crafting the content for your assignment by providing you with easy and flexible online services that will satisfy all your needs. Our assignment-writing company has professional and skilled assignment writers who will help you out with assignments.</p>
 
@@ -251,46 +200,27 @@
   <img class="" src="{{ asset('images/Separator.svg')}}" alt="asg">
 </div> --}}
 
-<section class="section50 py-5" id="how-ireland-works">
-  <div class="container">
-    <div class="heading">
-      <h2 class="heading-title text-center mb-5"> Assignments Help Ireland Procedure </h2>
-    </div>
-    <div class="row pb-3 sm-px-4">
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="box bg-white border shadow">
-          <li class="icon"> <i aria-hidden="true" class="fa fa-file-text-o"></i></li>
-          <h3 class="works-title text-green">Order Submission</h3>
-          <p class="works-content">To submit your order, fill out our order form with your complete assignment details. After reviewing your assignment, we will offer you a custom price quote. </p>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="box middle box bg-white border shadow ">
-          <li class="icon"> <i class="fa fa-credit-card" aria-hidden="true"></i></li>
-          <h3 class="works-title text-green">Payment Method</h3>
-          <p class="works-content">We offer payment methods via Visa and debit card before assigning the best subject professional for your project. They will start writing your assignment and deliver it to you before the deadline. </p>
-        </div>
-      </div>
-      <div class="col-md-4 ">
-        <div class="box box bg-white border shadow">
-          <li class="icon"> <i aria-hidden="true" class="fa fa-envelope-o"></i></li>
-          <h3 class="works-title text-green">Assignment Delivery</h3>
-          <p class="works-content">We will email you a complete assignment using your email ID. If you think there’s still something to be changed or edited, we can do it freely since we offer unlimited revisions. </p>
-        </div>
-      </div>
-    </div>
-    <span class="d-flex justify-content-center"> <a href="#" class="btn-new">Send Us Query Now</a>
-  </div>
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+<section class="section50 py-3" id="how-ireland-works">
+ @include('partials.procedure')
 
   </span>
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
 <!-- 14th section custom essay writing -->
-<section class="overflow-hidden my-4 py-4">
-  <div class=" container px-3">
-    <div class="row mb-5 align-items-center sm-px-4">
-      <div class="col-lg-6 p-4">
-        <h2 class="text-2xl mb-6 font-medium">
+<section class="overflow-hidden my-4 py-5">
+  <div class=" container p-0">
+    <div class="row lg-mb-5 align-items-center sm-px-4">
+      <div class="col-lg-6 p-3">
+        <h2 class="text-2xl mb-6  font-medium">
         Our Collaboration with Best Assignment Writers to Get Your Tasks Done with Perfection
         </h2>
         <p>
@@ -311,12 +241,12 @@
         </div>
       </div>
       <div class="text-center col-lg-6 p-3">
-        <img src="images/01.jpg" width="100%" alt="asg" class="img-fluid">
+        <img src="images/double-section1.webp" width="100%" alt="double-section1" title="double-section1" class="img-fluid">
       </div>
     </div>
     <div class="row align-items-center sm-px-4">
       <div class="text-center col-lg-6 p-3 order-2 order-md-1">
-        <img src="images/02.jpg" width="100%" alt="asg" class="img-fluid">
+        <img src="images/double-section2.webp" width="100%" alt="double-section2" class="img-fluid" title="double-section2">
       </div>
       <div class="col-lg-6 p-4 order-1 order-md-2">
         <h2 class="text-2xl mt-4 my-4 font-medium">
@@ -344,10 +274,13 @@
 </section>
 
 
+{{-- Seperator --}}
 
-<section class="container-lg incentives benefits" id="benefits">
+@include('partials.seperator')
+
+<section class="container-fluid incentives benefits" id="benefits">
   <div class="container-lg img-boxes">
-    <div class="row sm-px-4">
+    <div class="row ">
       <div class="col-md-12">
         <h3 class="text-center">
         Why Choose Assignments Help Ireland?
@@ -360,28 +293,26 @@
     <div class="row">
       <div class="col-md-12 exlore_benefits type_benefits">
         <div class="quality-boxes">
-          <div class="row sm-px-4">
+          <div class="row">
             <div class="col-md-6 mb-3">
-              <div class="wrapperz pb-4">
-                <div class="box">
-                  <img src="images/__Low price.png" alt="Quality img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Low-price-copy.webp" alt="__Low-price-copy" width="96" height="96" title="__Low-price-copy">
                 </div>
-                <div class="wrapper-box-content">
-                  <h4 class="qualtiy-box-title">Affordable Assignment Help Services</h4>
-                  <p class="wrapper-text">
+                <div class="card-body col-9 wrapper-box-content">
+                  <h4 class="card-title qualtiy-box-title">Affordable Assignment Help Services</h4>
+                  <p class="card-text wrapper-text">
                   We assure you that our services are highly affordable for students with various financial standards. Our services are cheap yet professional for everyone. 
-
-
                   </p>
                 </div>
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class=" wrapperz pb-4">
-                <div class="box">
-                  <img src="images/__Experienced Writers.png" alt="writer img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Experienced-Writers-copy.webp" alt="__Experienced-Writers-copy"  width="96" height="96" title="__Experienced-Writers-copy">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">Professional Assignment Writers Help</h4>
                   <p class="wrapper-text">
                   We have a team of writers with professional experience to ensure you will receive quality work without exception. So, you don’t need to worry about your tasks since our writers are here for you.
@@ -393,11 +324,11 @@
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class="wrapperz pb-4">
-                <div class="box">
-                  <img src="images/__Timely Delivery.png" alt="deadline img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Timel- Delivery-copy.webp" alt="__Timel- Delivery-copy"  width="96" height="96" title="__Timel- Delivery-copy">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">Fast Delivery</h4>
                   <p class="wrapper-text">
                   We believe that time is important for everyone. Since we offer fast delivery, we will always provide you with your completed task before the deadline with quality. 
@@ -407,11 +338,11 @@
               </div>
             </div>
             <div class="col-md-6 mb-3">
-              <div class="wrapperz pb-4">
-                <div class="box">
-                  <img src="images/100-Plag free.png" alt="source img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__100 -Plag-free-copy.webp" alt="__100 -Plag-free-copy"  width="96" height="96" title="__100 -Plag-free-copy">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">100% Plagiarism-Free Content</h4>
                   <p class="wrapper-text">
                   Our team of writers always provides original, 100% plagiarism-free content without copyright issues. We also assure you of the best work. 
@@ -422,11 +353,11 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="wrapperz pb-4">
-                <div class="box">
-                  <img src="images/__24-7 customer support.png" alt="support img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__24-7-customer-support-copy.webp" alt="__24-7-customer-support-copy" title="__24-7-customer-support-copy" width="96" height="96">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">24-hour Customer Support </h4>
                   <p class="wrapper-text">
                   We provide our clients with 24-hour support, so you can freely contact us at any time with any queries or doubts. 
@@ -436,11 +367,11 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="wrapperz pb-4">
-                <div class="box">
-                  <img src="images/__Free samples.png" alt="hidden img">
+              <div class="card wrapperz pb-4">
+                <div class="col-3 box">
+                  <img src="images/__Free-samples-copy.webp" alt="__Free-samples-copy" title="__Free-samples-copy" width="96" height="96">
                 </div>
-                <div class="wrapper-box-content">
+                <div class="card-body col-9 wrapper-box-content">
                   <h4 class="qualtiy-box-title">Free Work Examples</h4>
                   <p class="wrapper-text">
                   We also offer our free work examples to clients to give them an idea of our quality work, and they will deliver it to them. <a href="#"></a></p>
@@ -455,52 +386,21 @@
   </div>
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
 <section class=" py-5 free-feature sm-px-4">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h4>Have a Look at Our Free Packages </h4>
-        <p class="wrapper-text">
-        Get our free online assignment packages.
-                  </p>
-        <hr class="hr-line w-25 mx-auto">
-      </div>
-    </div>
-    <div class="container row g-0 g-md-3 m-t-20">
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Plagiarism Report </span><span class="h5 mb-0"><del>€
-              15.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Preferred Style Referencing </span><span
-            class="h5 mb-0"><del>€ 11.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> On-Point Formatting </span><span class="h5 mb-0"><del>€
-              17.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Subject Matter Experts </span><span class="h5 mb-0"><del>€
-              20.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Free Edits &amp; Revisions </span><span class="h5 mb-0"><del>€
-              16.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-      <div class="col-md-2">
-        <div class="feature-box"><span class="grey-text"> Title &amp; Cover Page </span><span class="h5 mb-0"><del>€
-              28.99</del></span><span class="h6"> FREE </span></div>
-      </div>
-    </div>
-    <div>
-      <p><b>Buy assignments online</b> from Write My Assignment and enjoy all these perks for free! <span
-          class="red"><del>65,86</del> FREE </span></p>
-    </div>
-  </div>
+  @include('partials.package')
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
 <section class="writers">
-  <div class="position-relative px-0 pb-5">
+  <div class="position-relative px-0 pb-5 pt-3 mb-3">
     <div style="padding-left: 2rem; padding-right: 2rem;" class="container mx-auto">
       <h3 style="color: #5A5959;" class="text-center mt-5">Meet Our Best Assignment Writers Online 
         <span class="text-[#EF443B]"> 
@@ -607,7 +507,7 @@
                             always help students achieve better grades across Ireland.                           
                           </p>
                         </div>
-                        <div class="mt-4 text-end"><a href="https://www.writemyassignment.ie/user/order"
+                        <div class="mt-4 text-center"><a href="https://www.writemyassignment.ie/user/order"
                             style="background-color: #192E49; border-radius: 20px;" class="btn text-white"> Write My
                             Paper </a>
                         </div>
@@ -967,10 +867,15 @@
   </div>
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
 <section style="background-color: #DBECFE; padding: 80px 0px 80px 0px;" class="content bg-content">
-  <div class="container sm-px-4">
+  <div class="container p-0 sm-px-4">
     <div style="padding-left: 1rem;" class="row">
-      <div class="row m-t-20">
+      <div class="row p-0 m-t-20">
         <div class="col-md-6">
           <h2 class="h6 fw-bold fs-4">Best Assignment Writing Service Ireland to Secure Top Grades </h2>
           <p style="color: black;" class="pt-4">Assignments Help Ireland is one of the companies that will provide you with the best quality assignments to improve your grades. Our professional writers are well-educated and skilled and will use the most reliable tactics to provide help with assignment without making any sort of errors. So you won’t be discouraged through their services. Whether you are looking for essay writing, research writing, a thesis, or something else, we are certain that our services will not only help you craft a perfect assignment but also help you learn the fundamentals for writing an excellent assignment. </p>
@@ -982,7 +887,7 @@
           <p style="color: black;" class="py-3">Moreover, our writing team is happy to help you with any additional assignment work you may have. We have served thousands of clients across Ireland from various cities, including Dublin, Waterford, Cork, Galway, etc. So, never lose hope since our team is ready to provide you with the work you need to fulfill all your requirements.  </p>
         </div>
       </div>
-      <div class="row">
+      <div class="row p-0">
         <div class="col-md-6">
           <h2 class="h6 fw-bold fs-4"> Safe &amp; Cheap Services of Assignment Help in Ireland For Students of All Financial Status </h2>
           <p style="color: black;" class="pt-4">It has now become hard for many students to avail of professional assignment help services since they are highly expensive. Any assignment is not worth delivering without professional writing. But there’s no need to get frustrated since Assignments Help Ireland is one of the leading professional assignment writing companies that offers professional assignment help services at the cheapest cost.</p>
@@ -999,248 +904,31 @@
         
         
       </div>
-          <div class="mt-5 text-center"><a href="https://www.writemyassignment.ie/contact-us"
-              style="background-color: #0b2051; color: white;" class="btn btn-dual-shade">  Order Now</a>
+          <div class="mt-5 text-center">
+            <a href="#">
+              <button style="border-radius: 30px 0px 30px 0px; background-color: #192D48; color: white;"
+                class="px-4 btn py-3 px-5">
+                Order Now
+              </button>
+            </a>
           </div>
       </div>
 </section>
 
-<section style="background-color: #DBECFE;" class="mt-5 overflow-hidden pb-5">
-  <div class="container mx-auto px-5 py-5">
-    <div class="mx-5">
-      <h3 style="font-weight: 600; font-size: 2.75rem;" class="text-dark text-center mt-5">Sample Of Our Papers</h3>
-    </div>
-    <!-- grid start of downloadable form -->
-    <div class="row g-4 mt-4 mt-md-5">
-      <!-- Grid Col 1 -->
-      <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
-        <!-- Your content here -->
-        <div class="position-relative sample-paper">
-          <div
-            style="width: 18rem; height: 30rem; background-color: #192E49; margin-left: 2.5rem; rotate: 12deg; border-radius: 1rem;">
-          </div>
-          <div style="border-radius: 0.75rem;" class="position-absolute top-0 start-0 end-0 bottom-0 bg-white pb-4">
-            <p style="font-weight: 600; color: black" class="text-center mt-5">Assignment</p>
-            <div class="row p-4">
-              <!-- First 2 grid Of Title -->
-              <div class="col-lg-4 col-4">
-                <p class="text-sm  font-normal ">Title:</p>
-              </div>
-              <div class="col-lg-8 col-8">
-                <p class="text-sm  font-normal ">Strategic Change Management</p>
-              </div>
-              <hr class="mt-1">
-              <!-- Second 2 grid of Discipline -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Discipline:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Management
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Third 2 grid of Academic -->
-              <div class="col-lg-6 col-7">
-                <p class="text-sm  font-normal ">Academic Level:</p>
-              </div>
-              <div class="col-lg-6 col-5">
-                <p class="text-sm  font-normal ">Masters
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fourth 2 grid of Pages -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Pages:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">24
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fifth 2 grid of Format -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Format:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Harvard
-                </p>
-              </div>
-              <hr class="mt-1">
-            </div>
-            <!-- Download Sample Button -->
-            <div class="row text-center">
-              <a href="{{ asset('samples/Role-of-leadership-Management-in-Provision-of-QA-in-Food-Companies.pdf') }}"
-                target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Download Sample
-                </button></a>
-            </div>
-            <!-- Order Now Button -->
-            <div class="row justify-content text-center mt-3">
-              <a href="#" target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Order Now
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Grid Col 2 -->
-      <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
-        <!-- Your content here -->
+{{-- Seperator --}}
 
-        <div class="position-relative sample-paper">
-          <div
-            style="width: 18rem; height: 30rem; background-color: #192E49; margin-left: 2.5rem; rotate: 12deg; border-radius: 1rem;">
-          </div>
-          <div style="border-radius: 0.75rem;" class="position-absolute top-0 start-0 end-0 bottom-0 bg-white pb-4">
-            <p style="font-weight: 600; color: black" class="text-center mt-5">Assignment</p>
-            <div class="row p-4">
-              <!-- First 2 grid Of Title -->
-              <div class="col-lg-4 col-4">
-                <p class="text-sm  font-normal ">Title:</p>
-              </div>
-              <div class="col-lg-8 col-8">
-                <p class="text-sm  font-normal ">Strategic Change Management</p>
-              </div>
-              <hr class="mt-1">
-              <!-- Second 2 grid of Discipline -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Discipline:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Management
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Third 2 grid of Academic -->
-              <div class="col-lg-6 col-7">
-                <p class="text-sm  font-normal ">Academic Level:</p>
-              </div>
-              <div class="col-lg-6 col-5">
-                <p class="text-sm  font-normal ">Masters
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fourth 2 grid of Pages -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Pages:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">24
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fifth 2 grid of Format -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Format:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Harvard
-                </p>
-              </div>
-              <hr class="mt-1">
-            </div>
-            <!-- Download Sample Button -->
-            <div class="row text-center">
-              <a href="{{ asset('samples/Role-of-leadership-Management-in-Provision-of-QA-in-Food-Companies.pdf') }}"
-                target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Download Sample
-                </button></a>
-            </div>
-            <!-- Order Now Button -->
-            <div class="row justify-content text-center mt-3">
-              <a href="#" target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Order Now
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Grid Col 3 -->
-      <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0">
-        <!-- Your content here -->
+@include('partials.seperator')
 
-        <div class="position-relative sample-paper">
-          <div
-            style="width: 18rem; height: 30rem; background-color: #192E49; margin-left: 2.5rem; rotate: 12deg; border-radius: 1rem;">
-          </div>
-          <div style="border-radius: 0.75rem;" class="position-absolute top-0 start-0 end-0 bottom-0 bg-white pb-4">
-            <p style="font-weight: 600; color: black" class="text-center mt-5">Assignment</p>
-            <div class="row p-4">
-              <!-- First 2 grid Of Title -->
-              <div class="col-lg-4 col-4">
-                <p class="text-sm  font-normal ">Title:</p>
-              </div>
-              <div class="col-lg-8 col-8">
-                <p class="text-sm  font-normal ">Strategic Change Management</p>
-              </div>
-              <hr class="mt-1">
-              <!-- Second 2 grid of Discipline -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Discipline:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Management
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Third 2 grid of Academic -->
-              <div class="col-lg-6 col-7">
-                <p class="text-sm  font-normal ">Academic Level:</p>
-              </div>
-              <div class="col-lg-6 col-5">
-                <p class="text-sm  font-normal ">Masters
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fourth 2 grid of Pages -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Pages:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">24
-                </p>
-              </div>
-              <hr class="mt-1">
-              <!-- Fifth 2 grid of Format -->
-              <div class="col-lg-6 col-4">
-                <p class="text-sm  font-normal ">Format:</p>
-              </div>
-              <div class="col-lg-6 col-8">
-                <p class="text-sm  font-normal ">Harvard
-                </p>
-              </div>
-              <hr class="mt-1">
-            </div>
-            <!-- Download Sample Button -->
-            <div class="row text-center">
-              <a href="{{ asset('samples/Role-of-leadership-Management-in-Provision-of-QA-in-Food-Companies.pdf') }}"
-                target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Download Sample
-                </button></a>
-            </div>
-            <!-- Order Now Button -->
-            <div class="row justify-content text-center mt-3">
-              <a href="#" target="_blank">
-                <button class="sample-btn text-white py-2 px-4">
-                  Order Now
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<section  class=" overflow-hidden pb-5">
+  @include('partials.sample')
 </section>
 
-<section class="mt-5 home-testimonial">
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
+<section class="home-testimonial">
   <div class="container mx-auto px-5 py-5">
     <h3 class="text-dark text-center mb-5 mx-2 mx-md-4">Testimonials</h3>
     <!-- Customer Carousel  -->
@@ -1251,7 +939,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-four.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-four.jpg" alt="testimonials-four" title="testimonials-four">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">I am really amazed at their services. Assignments Help Ireland is the leading platform, and this is not the first time I have used their services, so I can assure you that this company is very professional and affordable. 
@@ -1317,7 +1005,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-three.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-three.jpg" alt="testimonials-three" title="testimonials-three">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">Assignments Help Ireland is the most reliable platform. It served thousands of students, including me. I am pleased with their quality work and timely delivery. Highly recommended!
@@ -1383,7 +1071,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-two.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-two.jpg" alt="testimonials-two" title="testimonials-two">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">Assignments Help Ireland is an easy and affordable platform offering a variety of online assignment services with professionalism. I am amazed with the grades that I have obtained after using their services. It is a reliable platform, and I highly recommend it. 
@@ -1449,7 +1137,7 @@
           <div class="testimonial-sec bg-white p-4 shadow" style="border: 2px solid #192E49;">
             <div class="row justify-content-center">
               <img style="width: 100px;" class="rounded-circle"
-                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-one.jpg" alt="">
+                src="https://www.assignmentshelp.ae/imgs/images-new/testimonial/testimonials-one.jpg" alt="testimonials-one" title="testimonials-one">
             </div>
             <div class="mt-2">
               <p class="text-center mx-lg-5">One of the best platforms I have ever serviced. They offer highly affordable services with cheap prices, and the writers are very professional, highly educated, and experienced. They provided me with a solid piece of work. Thank you!
@@ -1519,12 +1207,15 @@
   </div>
 </section>
 
+
+{{-- Seperator --}}
+
+@include('partials.seperator')
+
 <section class="section30" id="ire-accordion-section">
   <div class="container">
     <div class="row">
-
-      <div style="background-image: url(images/bg-image.jpg); background-size: cover; background-repeat: no-repeat;"
-        class="order-1 order-md-0 col-md-5">
+      <div class="faq order-1 order-md-0 col-md-5">
         <div id="accordion" style="padding: 30px;" class="ireland-students-faq assignment">
           <h3 class="py-3" style="color: #192E47; text-align: left;">Frequently Asked Questions</h3>
           <div class="card mb-0 border-0">
@@ -1590,25 +1281,23 @@
           </div>
         </div>
       </div>
-      <div class="text-center order-sm-1 col-md-7 mb-3 mb-md-0">
-        <div class="solved-assignment"> <a href="#"><img src="images/Assignment Help Ireland web image.png" width="90%"
-              alt="online-assignment-writer.webp" class="img-fluid lazyloaded"><noscript><img
-                src="images/Assignment Help Ireland web image.png" alt="online-assignment-writer.webp"
-                class="img-fluid"></noscript></a></div>
+      <div class="faq-image text-center order-sm-1 col-md-7 mb-3 mb-md-0">
+          @include('partials.faq-image')
       </div>
     </div>
   </div>
 </section>
 
+
 <section>
 
-  <div class="my-5 container-fluid py-5 px-4" style="background-image: linear-gradient(to right, #C5D2DB , #3B7090);">
+  <div class="upper-footer container-fluid py-5 px-4" >
     <div class="container">
       <!-- row -->
       <div class="row align-items-center g-0">
         <!-- img -->
         <div class="d-none d-lg-inline-block col-xl-5 col-lg-6 col-md-12 text-left pt-6">
-          <img src="images/cta-img.png" width="90%" alt="" class="img-fluid">
+          <img src="images/cta-img.png" width="90%" alt="cta-img" title="cta-img" class="img-fluid">
         </div>
         <div class="cta-text col-xl-7 col-lg-6 col-md-12">
           <!-- heading -->

@@ -23,6 +23,7 @@
   <link rel="stylesheet" href="fonts/icomoon/style.css">
 
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/app.css">
   
 
 </head>
